@@ -1,0 +1,2 @@
+These are all the conda environments used in this project.  
+Refer to [conda docs](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) for how to create a conda environment from a `.yml` file.

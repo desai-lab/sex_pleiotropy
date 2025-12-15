@@ -1,0 +1,1 @@
+These files are from a previous uncorrected _Saccharomyces cerevisiae_ W303 reference genome (see 'Whole-genome sequencing and Variant Calling' section of Methods).
