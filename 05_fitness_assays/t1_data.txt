@@ -1,0 +1,1153 @@
+Name	Statistic	Cells
+Specimen_001_A1_A01.fcs		18753
+Specimen_001_A1_A01.fcs/cells	100	18747
+Specimen_001_A1_A01.fcs/cells/mCherry	99.8	18706
+Specimen_001_A2_A02.fcs		20000
+Specimen_001_A2_A02.fcs/cells	100	19996
+Specimen_001_A2_A02.fcs/cells/mCherry	99.9	19979
+Specimen_001_A3_A03.fcs		15504
+Specimen_001_A3_A03.fcs/cells	99.9	15482
+Specimen_001_A3_A03.fcs/cells/mCherry	89.6	13876
+Specimen_001_A4_A04.fcs		19665
+Specimen_001_A4_A04.fcs/cells	100	19656
+Specimen_001_A4_A04.fcs/cells/mCherry	85.3	16771
+Specimen_001_A5_A05.fcs		18354
+Specimen_001_A5_A05.fcs/cells	99.9	18337
+Specimen_001_A5_A05.fcs/cells/mCherry	66.6	12218
+Specimen_001_A6_A06.fcs		20000
+Specimen_001_A6_A06.fcs/cells	100	19990
+Specimen_001_A6_A06.fcs/cells/mCherry	59.7	11937
+Specimen_001_A7_A07.fcs		14022
+Specimen_001_A7_A07.fcs/cells	100	14016
+Specimen_001_A7_A07.fcs/cells/mCherry	17.7	2474
+Specimen_001_A8_A08.fcs		17556
+Specimen_001_A8_A08.fcs/cells	100	17552
+Specimen_001_A8_A08.fcs/cells/mCherry	13.9	2439
+Specimen_001_A9_A09.fcs		17328
+Specimen_001_A9_A09.fcs/cells	100	17325
+Specimen_001_A9_A09.fcs/cells/mCherry	61.5	10659
+Specimen_001_A10_A10.fcs		20000
+Specimen_001_A10_A10.fcs/cells	100	19992
+Specimen_001_A10_A10.fcs/cells/mCherry	53.4	10684
+Specimen_001_A11_A11.fcs		14421
+Specimen_001_A11_A11.fcs/cells	99.9	14400
+Specimen_001_A11_A11.fcs/cells/mCherry	87.5	12602
+Specimen_001_A12_A12.fcs		17385
+Specimen_001_A12_A12.fcs/cells	99.9	17371
+Specimen_001_A12_A12.fcs/cells/mCherry	88.2	15323
+Specimen_001_A13_A13.fcs		11538
+Specimen_001_A13_A13.fcs/cells	99.8	11513
+Specimen_001_A13_A13.fcs/cells/mCherry	88	10128
+Specimen_001_A14_A14.fcs		16815
+Specimen_001_A14_A14.fcs/cells	99.9	16797
+Specimen_001_A14_A14.fcs/cells/mCherry	84.8	14252
+Specimen_001_A15_A15.fcs		13680
+Specimen_001_A15_A15.fcs/cells	100	13675
+Specimen_001_A15_A15.fcs/cells/mCherry	80.6	11020
+Specimen_001_A16_A16.fcs		14649
+Specimen_001_A16_A16.fcs/cells	100	14645
+Specimen_001_A16_A16.fcs/cells/mCherry	75.9	11121
+Specimen_001_A17_A17.fcs		14706
+Specimen_001_A17_A17.fcs/cells	99.9	14697
+Specimen_001_A17_A17.fcs/cells/mCherry	85.8	12616
+Specimen_001_A18_A18.fcs		13274
+Specimen_001_A18_A18.fcs/cells	99.9	13262
+Specimen_001_A18_A18.fcs/cells/mCherry	84.1	11155
+Specimen_001_A19_A19.fcs		16074
+Specimen_001_A19_A19.fcs/cells	99.9	16062
+Specimen_001_A19_A19.fcs/cells/mCherry	84.9	13643
+Specimen_001_A20_A20.fcs		18297
+Specimen_001_A20_A20.fcs/cells	100	18288
+Specimen_001_A20_A20.fcs/cells/mCherry	82.8	15146
+Specimen_001_A21_A21.fcs		18468
+Specimen_001_A21_A21.fcs/cells	99.9	18452
+Specimen_001_A21_A21.fcs/cells/mCherry	88.2	16280
+Specimen_001_A22_A22.fcs		20000
+Specimen_001_A22_A22.fcs/cells	100	19990
+Specimen_001_A22_A22.fcs/cells/mCherry	83.6	16709
+Specimen_001_A23_A23.fcs		20000
+Specimen_001_A23_A23.fcs/cells	99.9	19989
+Specimen_001_A23_A23.fcs/cells/mCherry	99.8	19958
+Specimen_001_A24_A24.fcs		20000
+Specimen_001_A24_A24.fcs/cells	99.9	19985
+Specimen_001_A24_A24.fcs/cells/mCherry	99.9	19966
+Specimen_001_B1_B01.fcs		15333
+Specimen_001_B1_B01.fcs/cells	100	15330
+Specimen_001_B1_B01.fcs/cells/mCherry	99.3	15216
+Specimen_001_B2_B02.fcs		16180
+Specimen_001_B2_B02.fcs/cells	99.9	16161
+Specimen_001_B2_B02.fcs/cells/mCherry	99.6	16094
+Specimen_001_B3_B03.fcs		14193
+Specimen_001_B3_B03.fcs/cells	100	14186
+Specimen_001_B3_B03.fcs/cells/mCherry	80.2	11380
+Specimen_001_B4_B04.fcs		20000
+Specimen_001_B4_B04.fcs/cells	100	19992
+Specimen_001_B4_B04.fcs/cells/mCherry	80.8	16144
+Specimen_001_B5_B05.fcs		15219
+Specimen_001_B5_B05.fcs/cells	99.9	15205
+Specimen_001_B5_B05.fcs/cells/mCherry	58.5	8902
+Specimen_001_B6_B06.fcs		19665
+Specimen_001_B6_B06.fcs/cells	100	19656
+Specimen_001_B6_B06.fcs/cells/mCherry	55.6	10920
+Specimen_001_B7_B07.fcs		15333
+Specimen_001_B7_B07.fcs/cells	99.9	15321
+Specimen_001_B7_B07.fcs/cells/mCherry	13.6	2088
+Specimen_001_B8_B08.fcs		18924
+Specimen_001_B8_B08.fcs/cells	100	18919
+Specimen_001_B8_B08.fcs/cells/mCherry	11.7	2210
+Specimen_001_B9_B09.fcs		18525
+Specimen_001_B9_B09.fcs/cells	100	18516
+Specimen_001_B9_B09.fcs/cells/mCherry	53.6	9921
+Specimen_001_B10_B10.fcs		14932
+Specimen_001_B10_B10.fcs/cells	99.9	14918
+Specimen_001_B10_B10.fcs/cells/mCherry	47.4	7072
+Specimen_001_B11_B11.fcs		13452
+Specimen_001_B11_B11.fcs/cells	99.9	13440
+Specimen_001_B11_B11.fcs/cells/mCherry	88.8	11935
+Specimen_001_B12_B12.fcs		12768
+Specimen_001_B12_B12.fcs/cells	99.9	12752
+Specimen_001_B12_B12.fcs/cells/mCherry	81.8	10433
+Specimen_001_B13_B13.fcs		12369
+Specimen_001_B13_B13.fcs/cells	99.9	12359
+Specimen_001_B13_B13.fcs/cells/mCherry	85	10511
+Specimen_001_B14_B14.fcs		14820
+Specimen_001_B14_B14.fcs/cells	99.9	14804
+Specimen_001_B14_B14.fcs/cells/mCherry	79.9	11834
+Specimen_001_B15_B15.fcs		12027
+Specimen_001_B15_B15.fcs/cells	100	12025
+Specimen_001_B15_B15.fcs/cells/mCherry	76.1	9153
+Specimen_001_B16_B16.fcs		13452
+Specimen_001_B16_B16.fcs/cells	99.9	13440
+Specimen_001_B16_B16.fcs/cells/mCherry	73.8	9914
+Specimen_001_B17_B17.fcs		13794
+Specimen_001_B17_B17.fcs/cells	99.9	13783
+Specimen_001_B17_B17.fcs/cells/mCherry	82.7	11400
+Specimen_001_B18_B18.fcs		14079
+Specimen_001_B18_B18.fcs/cells	100	14074
+Specimen_001_B18_B18.fcs/cells/mCherry	82	11543
+Specimen_001_B19_B19.fcs		13908
+Specimen_001_B19_B19.fcs/cells	100	13905
+Specimen_001_B19_B19.fcs/cells/mCherry	82.5	11471
+Specimen_001_B20_B20.fcs		16302
+Specimen_001_B20_B20.fcs/cells	99.9	16291
+Specimen_001_B20_B20.fcs/cells/mCherry	78.4	12769
+Specimen_001_B21_B21.fcs		17043
+Specimen_001_B21_B21.fcs/cells	99.9	17034
+Specimen_001_B21_B21.fcs/cells/mCherry	84.7	14435
+Specimen_001_B22_B22.fcs		18126
+Specimen_001_B22_B22.fcs/cells	100	18120
+Specimen_001_B22_B22.fcs/cells/mCherry	83.6	15157
+Specimen_001_B23_B23.fcs		15903
+Specimen_001_B23_B23.fcs/cells	100	15897
+Specimen_001_B23_B23.fcs/cells/mCherry	99.6	15834
+Specimen_001_B24_B24.fcs		18240
+Specimen_001_B24_B24.fcs/cells	100	18238
+Specimen_001_B24_B24.fcs/cells/mCherry	99.8	18195
+Specimen_001_C1_C01.fcs		15561
+Specimen_001_C1_C01.fcs/cells	99.9	15552
+Specimen_001_C1_C01.fcs/cells/mCherry	94.1	14631
+Specimen_001_C2_C02.fcs		16245
+Specimen_001_C2_C02.fcs/cells	100	16239
+Specimen_001_C2_C02.fcs/cells/mCherry	90.7	14736
+Specimen_001_C3_C03.fcs		17670
+Specimen_001_C3_C03.fcs/cells	99.9	17661
+Specimen_001_C3_C03.fcs/cells/mCherry	66.2	11689
+Specimen_001_C4_C04.fcs		15081
+Specimen_001_C4_C04.fcs/cells	99.8	15057
+Specimen_001_C4_C04.fcs/cells/mCherry	57.3	8635
+Specimen_001_C5_C05.fcs		16587
+Specimen_001_C5_C05.fcs/cells	100	16583
+Specimen_001_C5_C05.fcs/cells/mCherry	67.2	11148
+Specimen_001_C6_C06.fcs		19152
+Specimen_001_C6_C06.fcs/cells	100	19145
+Specimen_001_C6_C06.fcs/cells/mCherry	58.7	11230
+Specimen_001_C7_C07.fcs		14649
+Specimen_001_C7_C07.fcs/cells	99.9	14636
+Specimen_001_C7_C07.fcs/cells/mCherry	71.6	10475
+Specimen_001_C8_C08.fcs		12902
+Specimen_001_C8_C08.fcs/cells	99.9	12888
+Specimen_001_C8_C08.fcs/cells/mCherry	61.5	7922
+Specimen_001_C9_C09.fcs		16815
+Specimen_001_C9_C09.fcs/cells	100	16808
+Specimen_001_C9_C09.fcs/cells/mCherry	64.1	10781
+Specimen_001_C10_C10.fcs		17385
+Specimen_001_C10_C10.fcs/cells	100	17381
+Specimen_001_C10_C10.fcs/cells/mCherry	55.9	9717
+Specimen_001_C11_C11.fcs		12996
+Specimen_001_C11_C11.fcs/cells	99.9	12989
+Specimen_001_C11_C11.fcs/cells/mCherry	91.7	11906
+Specimen_001_C12_C12.fcs		11630
+Specimen_001_C12_C12.fcs/cells	99.8	11611
+Specimen_001_C12_C12.fcs/cells/mCherry	88.7	10303
+Specimen_001_C13_C13.fcs		9774
+Specimen_001_C13_C13.fcs/cells	99.7	9747
+Specimen_001_C13_C13.fcs/cells/mCherry	84.5	8233
+Specimen_001_C14_C14.fcs		11033
+Specimen_001_C14_C14.fcs/cells	99.9	11022
+Specimen_001_C14_C14.fcs/cells/mCherry	81.6	8991
+Specimen_001_C15_C15.fcs		12369
+Specimen_001_C15_C15.fcs/cells	99.9	12356
+Specimen_001_C15_C15.fcs/cells/mCherry	88.8	10971
+Specimen_001_C16_C16.fcs		13224
+Specimen_001_C16_C16.fcs/cells	99.9	13217
+Specimen_001_C16_C16.fcs/cells/mCherry	84.6	11177
+Specimen_001_C17_C17.fcs		13737
+Specimen_001_C17_C17.fcs/cells	99.9	13724
+Specimen_001_C17_C17.fcs/cells/mCherry	87.2	11973
+Specimen_001_C18_C18.fcs		13680
+Specimen_001_C18_C18.fcs/cells	99.9	13671
+Specimen_001_C18_C18.fcs/cells/mCherry	84.4	11532
+Specimen_001_C19_C19.fcs		13167
+Specimen_001_C19_C19.fcs/cells	100	13162
+Specimen_001_C19_C19.fcs/cells/mCherry	86.7	11412
+Specimen_001_C20_C20.fcs		15276
+Specimen_001_C20_C20.fcs/cells	99.9	15264
+Specimen_001_C20_C20.fcs/cells/mCherry	83.5	12748
+Specimen_001_C21_C21.fcs		15390
+Specimen_001_C21_C21.fcs/cells	99.9	15380
+Specimen_001_C21_C21.fcs/cells/mCherry	79.6	12237
+Specimen_001_C22_C22.fcs		12711
+Specimen_001_C22_C22.fcs/cells	99.9	12699
+Specimen_001_C22_C22.fcs/cells/mCherry	75.3	9566
+Specimen_001_C23_C23.fcs		15048
+Specimen_001_C23_C23.fcs/cells	100	15042
+Specimen_001_C23_C23.fcs/cells/mCherry	94.4	14201
+Specimen_001_C24_C24.fcs		17613
+Specimen_001_C24_C24.fcs/cells	99.9	17600
+Specimen_001_C24_C24.fcs/cells/mCherry	92.7	16319
+Specimen_001_D1_D01.fcs		15105
+Specimen_001_D1_D01.fcs/cells	99.9	15095
+Specimen_001_D1_D01.fcs/cells/mCherry	91.8	13856
+Specimen_001_D2_D02.fcs		17613
+Specimen_001_D2_D02.fcs/cells	100	17606
+Specimen_001_D2_D02.fcs/cells/mCherry	88.9	15643
+Specimen_001_D3_D03.fcs		14242
+Specimen_001_D3_D03.fcs/cells	100	14236
+Specimen_001_D3_D03.fcs/cells/mCherry	57.7	8213
+Specimen_001_D4_D04.fcs		20000
+Specimen_001_D4_D04.fcs/cells	100	19992
+Specimen_001_D4_D04.fcs/cells/mCherry	55.2	11032
+Specimen_001_D5_D05.fcs		17157
+Specimen_001_D5_D05.fcs/cells	99.9	17146
+Specimen_001_D5_D05.fcs/cells/mCherry	58	9945
+Specimen_001_D6_D06.fcs		19209
+Specimen_001_D6_D06.fcs/cells	100	19205
+Specimen_001_D6_D06.fcs/cells/mCherry	57.3	11001
+Specimen_001_D7_D07.fcs		11603
+Specimen_001_D7_D07.fcs/cells	99.6	11561
+Specimen_001_D7_D07.fcs/cells/mCherry	62	7172
+Specimen_001_D8_D08.fcs		16074
+Specimen_001_D8_D08.fcs/cells	99.9	16061
+Specimen_001_D8_D08.fcs/cells/mCherry	57.5	9231
+Specimen_001_D9_D09.fcs		14763
+Specimen_001_D9_D09.fcs/cells	100	14757
+Specimen_001_D9_D09.fcs/cells/mCherry	55.4	8179
+Specimen_001_D10_D10.fcs		18183
+Specimen_001_D10_D10.fcs/cells	100	18178
+Specimen_001_D10_D10.fcs/cells/mCherry	53.6	9751
+Specimen_001_D11_D11.fcs		11799
+Specimen_001_D11_D11.fcs/cells	99.9	11787
+Specimen_001_D11_D11.fcs/cells/mCherry	88.7	10456
+Specimen_001_D12_D12.fcs		12426
+Specimen_001_D12_D12.fcs/cells	99.9	12413
+Specimen_001_D12_D12.fcs/cells/mCherry	86.6	10751
+Specimen_001_D13_D13.fcs		12312
+Specimen_001_D13_D13.fcs/cells	99.9	12300
+Specimen_001_D13_D13.fcs/cells/mCherry	81.3	10004
+Specimen_001_D14_D14.fcs		13395
+Specimen_001_D14_D14.fcs/cells	100	13391
+Specimen_001_D14_D14.fcs/cells/mCherry	78.7	10538
+Specimen_001_D15_D15.fcs		12825
+Specimen_001_D15_D15.fcs/cells	99.9	12818
+Specimen_001_D15_D15.fcs/cells/mCherry	85.5	10963
+Specimen_001_D16_D16.fcs		13281
+Specimen_001_D16_D16.fcs/cells	99.9	13268
+Specimen_001_D16_D16.fcs/cells/mCherry	84	11142
+Specimen_001_D17_D17.fcs		12369
+Specimen_001_D17_D17.fcs/cells	99.9	12361
+Specimen_001_D17_D17.fcs/cells/mCherry	83.5	10316
+Specimen_001_D18_D18.fcs		16131
+Specimen_001_D18_D18.fcs/cells	99.9	16117
+Specimen_001_D18_D18.fcs/cells/mCherry	81.9	13192
+Specimen_001_D19_D19.fcs		11685
+Specimen_001_D19_D19.fcs/cells	99.9	11678
+Specimen_001_D19_D19.fcs/cells/mCherry	84	9810
+Specimen_001_D20_D20.fcs		15789
+Specimen_001_D20_D20.fcs/cells	99.9	15776
+Specimen_001_D20_D20.fcs/cells/mCherry	81.5	12859
+Specimen_001_D21_D21.fcs		10203
+Specimen_001_D21_D21.fcs/cells	99.9	10194
+Specimen_001_D21_D21.fcs/cells/mCherry	75	7642
+Specimen_001_D22_D22.fcs		15276
+Specimen_001_D22_D22.fcs/cells	100	15272
+Specimen_001_D22_D22.fcs/cells/mCherry	71.1	10866
+Specimen_001_D23_D23.fcs		14307
+Specimen_001_D23_D23.fcs/cells	100	14302
+Specimen_001_D23_D23.fcs/cells/mCherry	92.7	13253
+Specimen_001_D24_D24.fcs		17505
+Specimen_001_D24_D24.fcs/cells	99.9	17487
+Specimen_001_D24_D24.fcs/cells/mCherry	90	15743
+Specimen_001_E1_E01.fcs		19551
+Specimen_001_E1_E01.fcs/cells	99.9	19531
+Specimen_001_E1_E01.fcs/cells/mCherry	64.5	12588
+Specimen_001_E2_E02.fcs		15903
+Specimen_001_E2_E02.fcs/cells	100	15900
+Specimen_001_E2_E02.fcs/cells/mCherry	60.2	9564
+Specimen_001_E3_E03.fcs		17157
+Specimen_001_E3_E03.fcs/cells	99.9	17147
+Specimen_001_E3_E03.fcs/cells/mCherry	63.9	10955
+Specimen_001_E4_E04.fcs		16302
+Specimen_001_E4_E04.fcs/cells	99.9	16290
+Specimen_001_E4_E04.fcs/cells/mCherry	54.3	8843
+Specimen_001_E5_E05.fcs		14877
+Specimen_001_E5_E05.fcs/cells	100	14870
+Specimen_001_E5_E05.fcs/cells/mCherry	70	10411
+Specimen_001_E6_E06.fcs		16587
+Specimen_001_E6_E06.fcs/cells	100	16580
+Specimen_001_E6_E06.fcs/cells/mCherry	61	10120
+Specimen_001_E7_E07.fcs		11400
+Specimen_001_E7_E07.fcs/cells	100	11397
+Specimen_001_E7_E07.fcs/cells/mCherry	99.8	11375
+Specimen_001_E8_E08.fcs		14535
+Specimen_001_E8_E08.fcs/cells	100	14528
+Specimen_001_E8_E08.fcs/cells/mCherry	99.9	14509
+Specimen_001_E9_E09.fcs		17727
+Specimen_001_E9_E09.fcs/cells	99.8	17697
+Specimen_001_E9_E09.fcs/cells/mCherry	62.9	11136
+Specimen_001_E10_E10.fcs		15276
+Specimen_001_E10_E10.fcs/cells	100	15272
+Specimen_001_E10_E10.fcs/cells/mCherry	54.7	8348
+Specimen_001_E11_E11.fcs		11913
+Specimen_001_E11_E11.fcs/cells	99.9	11905
+Specimen_001_E11_E11.fcs/cells/mCherry	80.2	9546
+Specimen_001_E12_E12.fcs		11571
+Specimen_001_E12_E12.fcs/cells	99.9	11565
+Specimen_001_E12_E12.fcs/cells/mCherry	73.2	8467
+Specimen_001_E13_E13.fcs		14307
+Specimen_001_E13_E13.fcs/cells	99.9	14288
+Specimen_001_E13_E13.fcs/cells/mCherry	87.5	12501
+Specimen_001_E14_E14.fcs		13395
+Specimen_001_E14_E14.fcs/cells	99.9	13383
+Specimen_001_E14_E14.fcs/cells/mCherry	83.1	11126
+Specimen_001_E15_E15.fcs		13908
+Specimen_001_E15_E15.fcs/cells	99.9	13892
+Specimen_001_E15_E15.fcs/cells/mCherry	85.2	11842
+Specimen_001_E16_E16.fcs		10545
+Specimen_001_E16_E16.fcs/cells	99.9	10537
+Specimen_001_E16_E16.fcs/cells/mCherry	82.5	8690
+Specimen_001_E17_E17.fcs		14364
+Specimen_001_E17_E17.fcs/cells	99.9	14350
+Specimen_001_E17_E17.fcs/cells/mCherry	81.4	11677
+Specimen_001_E18_E18.fcs		14079
+Specimen_001_E18_E18.fcs/cells	100	14075
+Specimen_001_E18_E18.fcs/cells/mCherry	78.2	11002
+Specimen_001_E19_E19.fcs		12358
+Specimen_001_E19_E19.fcs/cells	99.9	12344
+Specimen_001_E19_E19.fcs/cells/mCherry	90.3	11149
+Specimen_001_E20_E20.fcs		12483
+Specimen_001_E20_E20.fcs/cells	99.9	12475
+Specimen_001_E20_E20.fcs/cells/mCherry	85.6	10680
+Specimen_001_E21_E21.fcs		11913
+Specimen_001_E21_E21.fcs/cells	100	11910
+Specimen_001_E21_E21.fcs/cells/mCherry	88.7	10560
+Specimen_001_E22_E22.fcs		11442
+Specimen_001_E22_E22.fcs/cells	99.9	11431
+Specimen_001_E22_E22.fcs/cells/mCherry	85.4	9758
+Specimen_001_E23_E23.fcs		15789
+Specimen_001_E23_E23.fcs/cells	99.9	15778
+Specimen_001_E23_E23.fcs/cells/mCherry	77.2	12179
+Specimen_001_E24_E24.fcs		17271
+Specimen_001_E24_E24.fcs/cells	100	17263
+Specimen_001_E24_E24.fcs/cells/mCherry	72.4	12501
+Specimen_001_F1_F01.fcs		15447
+Specimen_001_F1_F01.fcs/cells	100	15442
+Specimen_001_F1_F01.fcs/cells/mCherry	59.5	9185
+Specimen_001_F2_F02.fcs		19779
+Specimen_001_F2_F02.fcs/cells	100	19771
+Specimen_001_F2_F02.fcs/cells/mCherry	56.4	11147
+Specimen_001_F3_F03.fcs		15732
+Specimen_001_F3_F03.fcs/cells	99.9	15718
+Specimen_001_F3_F03.fcs/cells/mCherry	55.5	8718
+Specimen_001_F4_F04.fcs		17271
+Specimen_001_F4_F04.fcs/cells	100	17263
+Specimen_001_F4_F04.fcs/cells/mCherry	50.7	8759
+Specimen_001_F5_F05.fcs		15675
+Specimen_001_F5_F05.fcs/cells	99.9	15664
+Specimen_001_F5_F05.fcs/cells/mCherry	62.6	9813
+Specimen_001_F6_F06.fcs		19779
+Specimen_001_F6_F06.fcs/cells	100	19772
+Specimen_001_F6_F06.fcs/cells/mCherry	60.8	12016
+Specimen_001_F7_F07.fcs		12369
+Specimen_001_F7_F07.fcs/cells	100	12365
+Specimen_001_F7_F07.fcs/cells/mCherry	99.6	12311
+Specimen_001_F8_F08.fcs		14535
+Specimen_001_F8_F08.fcs/cells	100	14528
+Specimen_001_F8_F08.fcs/cells/mCherry	99.7	14488
+Specimen_001_F9_F09.fcs		15048
+Specimen_001_F9_F09.fcs/cells	100	15043
+Specimen_001_F9_F09.fcs/cells/mCherry	56.9	8555
+Specimen_001_F10_F10.fcs		16758
+Specimen_001_F10_F10.fcs/cells	100	16755
+Specimen_001_F10_F10.fcs/cells/mCherry	53.9	9026
+Specimen_001_F11_F11.fcs		10830
+Specimen_001_F11_F11.fcs/cells	99.9	10823
+Specimen_001_F11_F11.fcs/cells/mCherry	74.5	8063
+Specimen_001_F12_F12.fcs		13623
+Specimen_001_F12_F12.fcs/cells	100	13618
+Specimen_001_F12_F12.fcs/cells/mCherry	70.1	9543
+Specimen_001_F13_F13.fcs		13110
+Specimen_001_F13_F13.fcs/cells	99.9	13097
+Specimen_001_F13_F13.fcs/cells/mCherry	84.4	11059
+Specimen_001_F14_F14.fcs		14706
+Specimen_001_F14_F14.fcs/cells	99.9	14687
+Specimen_001_F14_F14.fcs/cells/mCherry	81.5	11973
+Specimen_001_F15_F15.fcs		10089
+Specimen_001_F15_F15.fcs/cells	99.9	10080
+Specimen_001_F15_F15.fcs/cells/mCherry	82.9	8357
+Specimen_001_F16_F16.fcs		14022
+Specimen_001_F16_F16.fcs/cells	99.9	14005
+Specimen_001_F16_F16.fcs/cells/mCherry	80.2	11234
+Specimen_001_F17_F17.fcs		11913
+Specimen_001_F17_F17.fcs/cells	99.9	11904
+Specimen_001_F17_F17.fcs/cells/mCherry	79	9403
+Specimen_001_F18_F18.fcs		14649
+Specimen_001_F18_F18.fcs/cells	99.9	14641
+Specimen_001_F18_F18.fcs/cells/mCherry	77.5	11345
+Specimen_001_F19_F19.fcs		11115
+Specimen_001_F19_F19.fcs/cells	99.9	11101
+Specimen_001_F19_F19.fcs/cells/mCherry	86.9	9646
+Specimen_001_F20_F20.fcs		13965
+Specimen_001_F20_F20.fcs/cells	99.9	13958
+Specimen_001_F20_F20.fcs/cells/mCherry	84.7	11818
+Specimen_001_F21_F21.fcs		12426
+Specimen_001_F21_F21.fcs/cells	99.9	12417
+Specimen_001_F21_F21.fcs/cells/mCherry	85.1	10564
+Specimen_001_F22_F22.fcs		13110
+Specimen_001_F22_F22.fcs/cells	99.9	13103
+Specimen_001_F22_F22.fcs/cells/mCherry	83.9	10995
+Specimen_001_F23_F23.fcs		15276
+Specimen_001_F23_F23.fcs/cells	100	15269
+Specimen_001_F23_F23.fcs/cells/mCherry	71.8	10963
+Specimen_001_F24_F24.fcs		17556
+Specimen_001_F24_F24.fcs/cells	99.9	17545
+Specimen_001_F24_F24.fcs/cells/mCherry	71.7	12583
+Specimen_001_G1_G01.fcs		17556
+Specimen_001_G1_G01.fcs/cells	100	17552
+Specimen_001_G1_G01.fcs/cells/mCherry	63.1	11084
+Specimen_001_G2_G02.fcs		19551
+Specimen_001_G2_G02.fcs/cells	100	19546
+Specimen_001_G2_G02.fcs/cells/mCherry	55.9	10919
+Specimen_001_G3_G03.fcs		16188
+Specimen_001_G3_G03.fcs/cells	100	16182
+Specimen_001_G3_G03.fcs/cells/mCherry	70.5	11406
+Specimen_001_G4_G04.fcs		15732
+Specimen_001_G4_G04.fcs/cells	99.9	15724
+Specimen_001_G4_G04.fcs/cells/mCherry	57.9	9102
+Specimen_001_G5_G05.fcs		16530
+Specimen_001_G5_G05.fcs/cells	99.9	16517
+Specimen_001_G5_G05.fcs/cells/mCherry	69.8	11536
+Specimen_001_G6_G06.fcs		17556
+Specimen_001_G6_G06.fcs/cells	100	17548
+Specimen_001_G6_G06.fcs/cells/mCherry	59.5	10446
+Specimen_001_G7_G07.fcs		15618
+Specimen_001_G7_G07.fcs/cells	99.9	15610
+Specimen_001_G7_G07.fcs/cells/mCherry	66.4	10366
+Specimen_001_G8_G08.fcs		16929
+Specimen_001_G8_G08.fcs/cells	99.9	16918
+Specimen_001_G8_G08.fcs/cells/mCherry	56.9	9628
+Specimen_001_G9_G09.fcs		15333
+Specimen_001_G9_G09.fcs/cells	99.9	15320
+Specimen_001_G9_G09.fcs/cells/mCherry	62.9	9639
+Specimen_001_G10_G10.fcs		17613
+Specimen_001_G10_G10.fcs/cells	100	17606
+Specimen_001_G10_G10.fcs/cells/mCherry	53.9	9489
+Specimen_001_G11_G11.fcs		13708
+Specimen_001_G11_G11.fcs/cells	99.9	13700
+Specimen_001_G11_G11.fcs/cells/mCherry	61.7	8451
+Specimen_001_G12_G12.fcs		16587
+Specimen_001_G12_G12.fcs/cells	100	16579
+Specimen_001_G12_G12.fcs/cells/mCherry	51.5	8542
+Specimen_001_G13_G13.fcs		14934
+Specimen_001_G13_G13.fcs/cells	99.9	14922
+Specimen_001_G13_G13.fcs/cells/mCherry	82.4	12295
+Specimen_001_G14_G14.fcs		12255
+Specimen_001_G14_G14.fcs/cells	99.9	12246
+Specimen_001_G14_G14.fcs/cells/mCherry	78.3	9590
+Specimen_001_G15_G15.fcs		12369
+Specimen_001_G15_G15.fcs/cells	99.9	12355
+Specimen_001_G15_G15.fcs/cells/mCherry	87.7	10834
+Specimen_001_G16_G16.fcs		12711
+Specimen_001_G16_G16.fcs/cells	99.9	12698
+Specimen_001_G16_G16.fcs/cells/mCherry	82.5	10481
+Specimen_001_G17_G17.fcs		13623
+Specimen_001_G17_G17.fcs/cells	99.9	13604
+Specimen_001_G17_G17.fcs/cells/mCherry	89.9	12226
+Specimen_001_G18_G18.fcs		12825
+Specimen_001_G18_G18.fcs/cells	99.9	12814
+Specimen_001_G18_G18.fcs/cells/mCherry	85.2	10914
+Specimen_001_G19_G19.fcs		12369
+Specimen_001_G19_G19.fcs/cells	99.9	12353
+Specimen_001_G19_G19.fcs/cells/mCherry	92.1	11377
+Specimen_001_G20_G20.fcs		12996
+Specimen_001_G20_G20.fcs/cells	99.9	12980
+Specimen_001_G20_G20.fcs/cells/mCherry	89	11553
+Specimen_001_G21_G21.fcs		14535
+Specimen_001_G21_G21.fcs/cells	99.9	14524
+Specimen_001_G21_G21.fcs/cells/mCherry	82	11915
+Specimen_001_G22_G22.fcs		13794
+Specimen_001_G22_G22.fcs/cells	100	13790
+Specimen_001_G22_G22.fcs/cells/mCherry	79.1	10901
+Specimen_001_G23_G23.fcs		14934
+Specimen_001_G23_G23.fcs/cells	100	14931
+Specimen_001_G23_G23.fcs/cells/mCherry	99.9	14911
+Specimen_001_G24_G24.fcs		13224
+Specimen_001_G24_G24.fcs/cells	99.9	13214
+Specimen_001_G24_G24.fcs/cells/mCherry	99.9	13198
+Specimen_001_H1_H01.fcs		17727
+Specimen_001_H1_H01.fcs/cells	99.9	17717
+Specimen_001_H1_H01.fcs/cells/mCherry	56.9	10078
+Specimen_001_H2_H02.fcs		18146
+Specimen_001_H2_H02.fcs/cells	99.9	18133
+Specimen_001_H2_H02.fcs/cells/mCherry	55.1	9994
+Specimen_001_H3_H03.fcs		12047
+Specimen_001_H3_H03.fcs/cells	99.9	12032
+Specimen_001_H3_H03.fcs/cells/mCherry	63.1	7598
+Specimen_001_H4_H04.fcs		12426
+Specimen_001_H4_H04.fcs/cells	99.9	12412
+Specimen_001_H4_H04.fcs/cells/mCherry	60.7	7529
+Specimen_001_H5_H05.fcs		17442
+Specimen_001_H5_H05.fcs/cells	100	17434
+Specimen_001_H5_H05.fcs/cells/mCherry	60.4	10534
+Specimen_001_H6_H06.fcs		19380
+Specimen_001_H6_H06.fcs/cells	100	19373
+Specimen_001_H6_H06.fcs/cells/mCherry	57	11049
+Specimen_001_H7_H07.fcs		13908
+Specimen_001_H7_H07.fcs/cells	99.9	13893
+Specimen_001_H7_H07.fcs/cells/mCherry	55.8	7746
+Specimen_001_H8_H08.fcs		16929
+Specimen_001_H8_H08.fcs/cells	100	16926
+Specimen_001_H8_H08.fcs/cells/mCherry	54.7	9264
+Specimen_001_H9_H09.fcs		15390
+Specimen_001_H9_H09.fcs/cells	99.9	15382
+Specimen_001_H9_H09.fcs/cells/mCherry	55.6	8548
+Specimen_001_H10_H10.fcs		17499
+Specimen_001_H10_H10.fcs/cells	100	17491
+Specimen_001_H10_H10.fcs/cells/mCherry	50.1	8768
+Specimen_001_H11_H11.fcs		14991
+Specimen_001_H11_H11.fcs/cells	100	14984
+Specimen_001_H11_H11.fcs/cells/mCherry	52.3	7838
+Specimen_001_H12_H12.fcs		16758
+Specimen_001_H12_H12.fcs/cells	100	16752
+Specimen_001_H12_H12.fcs/cells/mCherry	47.8	8005
+Specimen_001_H13_H13.fcs		12768
+Specimen_001_H13_H13.fcs/cells	99.9	12758
+Specimen_001_H13_H13.fcs/cells/mCherry	79.8	10185
+Specimen_001_H14_H14.fcs		14136
+Specimen_001_H14_H14.fcs/cells	99.9	14127
+Specimen_001_H14_H14.fcs/cells/mCherry	76.3	10784
+Specimen_001_H15_H15.fcs		12711
+Specimen_001_H15_H15.fcs/cells	99.9	12698
+Specimen_001_H15_H15.fcs/cells/mCherry	83.6	10611
+Specimen_001_H16_H16.fcs		14307
+Specimen_001_H16_H16.fcs/cells	99.9	14290
+Specimen_001_H16_H16.fcs/cells/mCherry	81.4	11637
+Specimen_001_H17_H17.fcs		11172
+Specimen_001_H17_H17.fcs/cells	99.9	11165
+Specimen_001_H17_H17.fcs/cells/mCherry	86.4	9641
+Specimen_001_H18_H18.fcs		13623
+Specimen_001_H18_H18.fcs/cells	99.9	13607
+Specimen_001_H18_H18.fcs/cells/mCherry	85.8	11673
+Specimen_001_H19_H19.fcs		12369
+Specimen_001_H19_H19.fcs/cells	99.9	12362
+Specimen_001_H19_H19.fcs/cells/mCherry	89.5	11062
+Specimen_001_H20_H20.fcs		14649
+Specimen_001_H20_H20.fcs/cells	99.9	14636
+Specimen_001_H20_H20.fcs/cells/mCherry	88.1	12891
+Specimen_001_H21_H21.fcs		12027
+Specimen_001_H21_H21.fcs/cells	99.9	12020
+Specimen_001_H21_H21.fcs/cells/mCherry	80.7	9706
+Specimen_001_H22_H22.fcs		14934
+Specimen_001_H22_H22.fcs/cells	100	14928
+Specimen_001_H22_H22.fcs/cells/mCherry	78.2	11669
+Specimen_001_H23_H23.fcs		11856
+Specimen_001_H23_H23.fcs/cells	100	11852
+Specimen_001_H23_H23.fcs/cells/mCherry	99.6	11809
+Specimen_001_H24_H24.fcs		16644
+Specimen_001_H24_H24.fcs/cells	100	16639
+Specimen_001_H24_H24.fcs/cells/mCherry	99.8	16607
+Specimen_001_I1_I01.fcs		16986
+Specimen_001_I1_I01.fcs/cells	100	16978
+Specimen_001_I1_I01.fcs/cells/mCherry	70.7	12001
+Specimen_001_I2_I02.fcs		15276
+Specimen_001_I2_I02.fcs/cells	99.9	15266
+Specimen_001_I2_I02.fcs/cells/mCherry	63.4	9684
+Specimen_001_I3_I03.fcs		15903
+Specimen_001_I3_I03.fcs/cells	99.9	15892
+Specimen_001_I3_I03.fcs/cells/mCherry	68.7	10920
+Specimen_001_I4_I04.fcs		17898
+Specimen_001_I4_I04.fcs/cells	99.9	17888
+Specimen_001_I4_I04.fcs/cells/mCherry	60.9	10901
+Specimen_001_I5_I05.fcs		16530
+Specimen_001_I5_I05.fcs/cells	100	16522
+Specimen_001_I5_I05.fcs/cells/mCherry	64.5	10654
+Specimen_001_I6_I06.fcs		16245
+Specimen_001_I6_I06.fcs/cells	100	16237
+Specimen_001_I6_I06.fcs/cells/mCherry	57.1	9279
+Specimen_001_I7_I07.fcs		15960
+Specimen_001_I7_I07.fcs/cells	100	15953
+Specimen_001_I7_I07.fcs/cells/mCherry	62.7	10004
+Specimen_001_I8_I08.fcs		17898
+Specimen_001_I8_I08.fcs/cells	100	17894
+Specimen_001_I8_I08.fcs/cells/mCherry	54.7	9782
+Specimen_001_I9_I09.fcs		15732
+Specimen_001_I9_I09.fcs/cells	100	15726
+Specimen_001_I9_I09.fcs/cells/mCherry	60.5	9509
+Specimen_001_I10_I10.fcs		14934
+Specimen_001_I10_I10.fcs/cells	100	14933
+Specimen_001_I10_I10.fcs/cells/mCherry	56.4	8416
+Specimen_001_I11_I11.fcs		15390
+Specimen_001_I11_I11.fcs/cells	100	15385
+Specimen_001_I11_I11.fcs/cells/mCherry	64.1	9867
+Specimen_001_I12_I12.fcs		20000
+Specimen_001_I12_I12.fcs/cells	100	19994
+Specimen_001_I12_I12.fcs/cells/mCherry	57.2	11427
+Specimen_001_I13_I13.fcs		13794
+Specimen_001_I13_I13.fcs/cells	100	13788
+Specimen_001_I13_I13.fcs/cells/mCherry	74	10202
+Specimen_001_I14_I14.fcs		13053
+Specimen_001_I14_I14.fcs/cells	100	13050
+Specimen_001_I14_I14.fcs/cells/mCherry	71	9264
+Specimen_001_I15_I15.fcs		12141
+Specimen_001_I15_I15.fcs/cells	99.9	12133
+Specimen_001_I15_I15.fcs/cells/mCherry	85.4	10359
+Specimen_001_I16_I16.fcs		10602
+Specimen_001_I16_I16.fcs/cells	100	10599
+Specimen_001_I16_I16.fcs/cells/mCherry	82.6	8754
+Specimen_001_I17_I17.fcs		12084
+Specimen_001_I17_I17.fcs/cells	100	12081
+Specimen_001_I17_I17.fcs/cells/mCherry	79	9547
+Specimen_001_I18_I18.fcs		12996
+Specimen_001_I18_I18.fcs/cells	100	12990
+Specimen_001_I18_I18.fcs/cells/mCherry	70.6	9176
+Specimen_001_I19_I19.fcs		13110
+Specimen_001_I19_I19.fcs/cells	99.9	13095
+Specimen_001_I19_I19.fcs/cells/mCherry	84.8	11105
+Specimen_001_I20_I20.fcs		12882
+Specimen_001_I20_I20.fcs/cells	100	12876
+Specimen_001_I20_I20.fcs/cells/mCherry	80.5	10364
+Specimen_001_I21_I21.fcs		12825
+Specimen_001_I21_I21.fcs/cells	99.9	12813
+Specimen_001_I21_I21.fcs/cells/mCherry	92.8	11895
+Specimen_001_I22_I22.fcs		13680
+Specimen_001_I22_I22.fcs/cells	99.9	13672
+Specimen_001_I22_I22.fcs/cells/mCherry	89.8	12284
+Specimen_001_I23_I23.fcs		15390
+Specimen_001_I23_I23.fcs/cells	99.9	15381
+Specimen_001_I23_I23.fcs/cells/mCherry	99.8	15354
+Specimen_001_I24_I24.fcs		13851
+Specimen_001_I24_I24.fcs/cells	100	13850
+Specimen_001_I24_I24.fcs/cells/mCherry	99.7	13811
+Specimen_001_J1_J01.fcs		14421
+Specimen_001_J1_J01.fcs/cells	99.9	14411
+Specimen_001_J1_J01.fcs/cells/mCherry	64.4	9276
+Specimen_001_J2_J02.fcs		16929
+Specimen_001_J2_J02.fcs/cells	100	16926
+Specimen_001_J2_J02.fcs/cells/mCherry	61.1	10348
+Specimen_001_J3_J03.fcs		17670
+Specimen_001_J3_J03.fcs/cells	99.9	17658
+Specimen_001_J3_J03.fcs/cells/mCherry	60.5	10684
+Specimen_001_J4_J04.fcs		18639
+Specimen_001_J4_J04.fcs/cells	100	18631
+Specimen_001_J4_J04.fcs/cells/mCherry	58.4	10879
+Specimen_001_J5_J05.fcs		14934
+Specimen_001_J5_J05.fcs/cells	99.9	14919
+Specimen_001_J5_J05.fcs/cells/mCherry	57.3	8553
+Specimen_001_J6_J06.fcs		16473
+Specimen_001_J6_J06.fcs/cells	100	16466
+Specimen_001_J6_J06.fcs/cells/mCherry	56.1	9230
+Specimen_001_J7_J07.fcs		13281
+Specimen_001_J7_J07.fcs/cells	99.9	13274
+Specimen_001_J7_J07.fcs/cells/mCherry	57	7568
+Specimen_001_J8_J08.fcs		18069
+Specimen_001_J8_J08.fcs/cells	100	18066
+Specimen_001_J8_J08.fcs/cells/mCherry	52.7	9515
+Specimen_001_J9_J09.fcs		15846
+Specimen_001_J9_J09.fcs/cells	100	15840
+Specimen_001_J9_J09.fcs/cells/mCherry	55.4	8771
+Specimen_001_J10_J10.fcs		16302
+Specimen_001_J10_J10.fcs/cells	100	16297
+Specimen_001_J10_J10.fcs/cells/mCherry	53.8	8770
+Specimen_001_J11_J11.fcs		12483
+Specimen_001_J11_J11.fcs/cells	99.9	12476
+Specimen_001_J11_J11.fcs/cells/mCherry	59.2	7385
+Specimen_001_J12_J12.fcs		16530
+Specimen_001_J12_J12.fcs/cells	100	16525
+Specimen_001_J12_J12.fcs/cells/mCherry	54.6	9024
+Specimen_001_J13_J13.fcs		11856
+Specimen_001_J13_J13.fcs/cells	100	11853
+Specimen_001_J13_J13.fcs/cells/mCherry	73.6	8724
+Specimen_001_J14_J14.fcs		13566
+Specimen_001_J14_J14.fcs/cells	99.9	13557
+Specimen_001_J14_J14.fcs/cells/mCherry	68.7	9308
+Specimen_001_J15_J15.fcs		9747
+Specimen_001_J15_J15.fcs/cells	99.9	9733
+Specimen_001_J15_J15.fcs/cells/mCherry	83.7	8148
+Specimen_001_J16_J16.fcs		12996
+Specimen_001_J16_J16.fcs/cells	100	12990
+Specimen_001_J16_J16.fcs/cells/mCherry	80.6	10474
+Specimen_001_J17_J17.fcs		10260
+Specimen_001_J17_J17.fcs/cells	100	10255
+Specimen_001_J17_J17.fcs/cells/mCherry	73.2	7505
+Specimen_001_J18_J18.fcs		12882
+Specimen_001_J18_J18.fcs/cells	99.9	12873
+Specimen_001_J18_J18.fcs/cells/mCherry	71.9	9258
+Specimen_001_J19_J19.fcs		10830
+Specimen_001_J19_J19.fcs/cells	100	10825
+Specimen_001_J19_J19.fcs/cells/mCherry	82.9	8974
+Specimen_001_J20_J20.fcs		12996
+Specimen_001_J20_J20.fcs/cells	99.9	12989
+Specimen_001_J20_J20.fcs/cells/mCherry	81.7	10611
+Specimen_001_J21_J21.fcs		11571
+Specimen_001_J21_J21.fcs/cells	99.9	11559
+Specimen_001_J21_J21.fcs/cells/mCherry	89.7	10372
+Specimen_001_J22_J22.fcs		14592
+Specimen_001_J22_J22.fcs/cells	99.9	14579
+Specimen_001_J22_J22.fcs/cells/mCherry	88	12826
+Specimen_001_J23_J23.fcs		13452
+Specimen_001_J23_J23.fcs/cells	100	13447
+Specimen_001_J23_J23.fcs/cells/mCherry	99.6	13392
+Specimen_001_J24_J24.fcs		15276
+Specimen_001_J24_J24.fcs/cells	100	15273
+Specimen_001_J24_J24.fcs/cells/mCherry	99.8	15249
+Specimen_001_K1_K01.fcs		15732
+Specimen_001_K1_K01.fcs/cells	100	15728
+Specimen_001_K1_K01.fcs/cells/mCherry	62.2	9786
+Specimen_001_K2_K02.fcs		17955
+Specimen_001_K2_K02.fcs/cells	100	17952
+Specimen_001_K2_K02.fcs/cells/mCherry	52.6	9450
+Specimen_001_K3_K03.fcs		15333
+Specimen_001_K3_K03.fcs/cells	99.9	15324
+Specimen_001_K3_K03.fcs/cells/mCherry	68.9	10551
+Specimen_001_K4_K04.fcs		16017
+Specimen_001_K4_K04.fcs/cells	100	16010
+Specimen_001_K4_K04.fcs/cells/mCherry	60.8	9731
+Specimen_001_K5_K05.fcs		15333
+Specimen_001_K5_K05.fcs/cells	99.9	15323
+Specimen_001_K5_K05.fcs/cells/mCherry	15.6	2386
+Specimen_001_K6_K06.fcs		18411
+Specimen_001_K6_K06.fcs/cells	100	18410
+Specimen_001_K6_K06.fcs/cells/mCherry	11.7	2159
+Specimen_001_K7_K07.fcs		16302
+Specimen_001_K7_K07.fcs/cells	99.9	16293
+Specimen_001_K7_K07.fcs/cells/mCherry	24.9	4057
+Specimen_001_K8_K08.fcs		16986
+Specimen_001_K8_K08.fcs/cells	100	16979
+Specimen_001_K8_K08.fcs/cells/mCherry	19.2	3257
+Specimen_001_K9_K09.fcs		16074
+Specimen_001_K9_K09.fcs/cells	99.9	16061
+Specimen_001_K9_K09.fcs/cells/mCherry	68.6	11022
+Specimen_001_K10_K10.fcs		17670
+Specimen_001_K10_K10.fcs/cells	99.9	17656
+Specimen_001_K10_K10.fcs/cells/mCherry	61.7	10885
+Specimen_001_K11_K11.fcs		15048
+Specimen_001_K11_K11.fcs/cells	99.9	15038
+Specimen_001_K11_K11.fcs/cells/mCherry	65.4	9839
+Specimen_001_K12_K12.fcs		16644
+Specimen_001_K12_K12.fcs/cells	100	16640
+Specimen_001_K12_K12.fcs/cells/mCherry	56.3	9374
+Specimen_001_K13_K13.fcs		12312
+Specimen_001_K13_K13.fcs/cells	99.9	12300
+Specimen_001_K13_K13.fcs/cells/mCherry	80.3	9873
+Specimen_001_K14_K14.fcs		11685
+Specimen_001_K14_K14.fcs/cells	100	11680
+Specimen_001_K14_K14.fcs/cells/mCherry	75.1	8769
+Specimen_001_K15_K15.fcs		11913
+Specimen_001_K15_K15.fcs/cells	99.9	11897
+Specimen_001_K15_K15.fcs/cells/mCherry	82.6	9829
+Specimen_001_K16_K16.fcs		11799
+Specimen_001_K16_K16.fcs/cells	99.9	11784
+Specimen_001_K16_K16.fcs/cells/mCherry	78.6	9267
+Specimen_001_K17_K17.fcs		13794
+Specimen_001_K17_K17.fcs/cells	99.9	13784
+Specimen_001_K17_K17.fcs/cells/mCherry	79.9	11010
+Specimen_001_K18_K18.fcs		11856
+Specimen_001_K18_K18.fcs/cells	100	11852
+Specimen_001_K18_K18.fcs/cells/mCherry	70	8300
+Specimen_001_K19_K19.fcs		11229
+Specimen_001_K19_K19.fcs/cells	99.9	11217
+Specimen_001_K19_K19.fcs/cells/mCherry	91.6	10276
+Specimen_001_K20_K20.fcs		13623
+Specimen_001_K20_K20.fcs/cells	99.9	13605
+Specimen_001_K20_K20.fcs/cells/mCherry	87.3	11876
+Specimen_001_K21_K21.fcs		16587
+Specimen_001_K21_K21.fcs/cells	99.9	16578
+Specimen_001_K21_K21.fcs/cells/mCherry	72.8	12071
+Specimen_001_K22_K22.fcs		14877
+Specimen_001_K22_K22.fcs/cells	99.9	14869
+Specimen_001_K22_K22.fcs/cells/mCherry	63	9365
+Specimen_001_K23_K23.fcs		15162
+Specimen_001_K23_K23.fcs/cells	100	15159
+Specimen_001_K23_K23.fcs/cells/mCherry	99.7	15121
+Specimen_001_K24_K24.fcs		13281
+Specimen_001_K24_K24.fcs/cells	100	13276
+Specimen_001_K24_K24.fcs/cells/mCherry	99.9	13257
+Specimen_001_L1_L01.fcs		14991
+Specimen_001_L1_L01.fcs/cells	99.9	14983
+Specimen_001_L1_L01.fcs/cells/mCherry	52.9	7931
+Specimen_001_L2_L02.fcs		17784
+Specimen_001_L2_L02.fcs/cells	100	17777
+Specimen_001_L2_L02.fcs/cells/mCherry	52.5	9331
+Specimen_001_L3_L03.fcs		15504
+Specimen_001_L3_L03.fcs/cells	99.9	15491
+Specimen_001_L3_L03.fcs/cells/mCherry	62.6	9705
+Specimen_001_L4_L04.fcs		17271
+Specimen_001_L4_L04.fcs/cells	99.9	17262
+Specimen_001_L4_L04.fcs/cells/mCherry	59.6	10295
+Specimen_001_L5_L05.fcs		15514
+Specimen_001_L5_L05.fcs/cells	100	15507
+Specimen_001_L5_L05.fcs/cells/mCherry	11.8	1837
+Specimen_001_L6_L06.fcs		20000
+Specimen_001_L6_L06.fcs/cells	100	19997
+Specimen_001_L6_L06.fcs/cells/mCherry	12	2409
+Specimen_001_L7_L07.fcs		11808
+Specimen_001_L7_L07.fcs/cells	99.8	11790
+Specimen_001_L7_L07.fcs/cells/mCherry	20.7	2441
+Specimen_001_L8_L08.fcs		17442
+Specimen_001_L8_L08.fcs/cells	100	17437
+Specimen_001_L8_L08.fcs/cells/mCherry	16.4	2864
+Specimen_001_L9_L09.fcs		14022
+Specimen_001_L9_L09.fcs/cells	100	14015
+Specimen_001_L9_L09.fcs/cells/mCherry	60.9	8539
+Specimen_001_L10_L10.fcs		17784
+Specimen_001_L10_L10.fcs/cells	99.9	17773
+Specimen_001_L10_L10.fcs/cells/mCherry	59.9	10649
+Specimen_001_L11_L11.fcs		14592
+Specimen_001_L11_L11.fcs/cells	99.9	14582
+Specimen_001_L11_L11.fcs/cells/mCherry	56.3	8215
+Specimen_001_L12_L12.fcs		18069
+Specimen_001_L12_L12.fcs/cells	100	18067
+Specimen_001_L12_L12.fcs/cells/mCherry	55.1	9947
+Specimen_001_L13_L13.fcs		10032
+Specimen_001_L13_L13.fcs/cells	99.9	10026
+Specimen_001_L13_L13.fcs/cells/mCherry	78	7823
+Specimen_001_L14_L14.fcs		12027
+Specimen_001_L14_L14.fcs/cells	99.9	12018
+Specimen_001_L14_L14.fcs/cells/mCherry	74.6	8963
+Specimen_001_L15_L15.fcs		11343
+Specimen_001_L15_L15.fcs/cells	99.9	11336
+Specimen_001_L15_L15.fcs/cells/mCherry	80	9066
+Specimen_001_L16_L16.fcs		13224
+Specimen_001_L16_L16.fcs/cells	99.9	13213
+Specimen_001_L16_L16.fcs/cells/mCherry	75	9914
+Specimen_001_L17_L17.fcs		11115
+Specimen_001_L17_L17.fcs/cells	99.9	11103
+Specimen_001_L17_L17.fcs/cells/mCherry	71.8	7972
+Specimen_001_L18_L18.fcs		12312
+Specimen_001_L18_L18.fcs/cells	100	12307
+Specimen_001_L18_L18.fcs/cells/mCherry	69.8	8586
+Specimen_001_L19_L19.fcs		12312
+Specimen_001_L19_L19.fcs/cells	99.9	12301
+Specimen_001_L19_L19.fcs/cells/mCherry	88.1	10840
+Specimen_001_L20_L20.fcs		13908
+Specimen_001_L20_L20.fcs/cells	99.9	13891
+Specimen_001_L20_L20.fcs/cells/mCherry	86.7	12049
+Specimen_001_L21_L21.fcs		14421
+Specimen_001_L21_L21.fcs/cells	99.9	14410
+Specimen_001_L21_L21.fcs/cells/mCherry	65.6	9452
+Specimen_001_L22_L22.fcs		16872
+Specimen_001_L22_L22.fcs/cells	100	16869
+Specimen_001_L22_L22.fcs/cells/mCherry	63.1	10637
+Specimen_001_L23_L23.fcs		12540
+Specimen_001_L23_L23.fcs/cells	100	12534
+Specimen_001_L23_L23.fcs/cells/mCherry	99.7	12497
+Specimen_001_L24_L24.fcs		16644
+Specimen_001_L24_L24.fcs/cells	100	16639
+Specimen_001_L24_L24.fcs/cells/mCherry	99.8	16602
+Specimen_001_M1_M01.fcs		16872
+Specimen_001_M1_M01.fcs/cells	99.9	16862
+Specimen_001_M1_M01.fcs/cells/mCherry	94	15845
+Specimen_001_M2_M02.fcs		15732
+Specimen_001_M2_M02.fcs/cells	99.9	15723
+Specimen_001_M2_M02.fcs/cells/mCherry	89.9	14131
+Specimen_001_M3_M03.fcs		16758
+Specimen_001_M3_M03.fcs/cells	99.9	16748
+Specimen_001_M3_M03.fcs/cells/mCherry	68.5	11479
+Specimen_001_M4_M04.fcs		16302
+Specimen_001_M4_M04.fcs/cells	100	16297
+Specimen_001_M4_M04.fcs/cells/mCherry	59.7	9735
+Specimen_001_M5_M05.fcs		15333
+Specimen_001_M5_M05.fcs/cells	99.9	15324
+Specimen_001_M5_M05.fcs/cells/mCherry	66.1	10136
+Specimen_001_M6_M06.fcs		16758
+Specimen_001_M6_M06.fcs/cells	100	16753
+Specimen_001_M6_M06.fcs/cells/mCherry	55.8	9345
+Specimen_001_M7_M07.fcs		13965
+Specimen_001_M7_M07.fcs/cells	99.9	13953
+Specimen_001_M7_M07.fcs/cells/mCherry	64.9	9055
+Specimen_001_M8_M08.fcs		14706
+Specimen_001_M8_M08.fcs/cells	100	14700
+Specimen_001_M8_M08.fcs/cells/mCherry	58.6	8615
+Specimen_001_M9_M09.fcs		14478
+Specimen_001_M9_M09.fcs/cells	99.9	14469
+Specimen_001_M9_M09.fcs/cells/mCherry	64.2	9292
+Specimen_001_M10_M10.fcs		15444
+Specimen_001_M10_M10.fcs/cells	99.9	15433
+Specimen_001_M10_M10.fcs/cells/mCherry	58	8958
+Specimen_001_M11_M11.fcs		16245
+Specimen_001_M11_M11.fcs/cells	100	16239
+Specimen_001_M11_M11.fcs/cells/mCherry	64.6	10496
+Specimen_001_M12_M12.fcs		15276
+Specimen_001_M12_M12.fcs/cells	100	15273
+Specimen_001_M12_M12.fcs/cells/mCherry	55.9	8533
+Specimen_001_M13_M13.fcs		12597
+Specimen_001_M13_M13.fcs/cells	99.9	12586
+Specimen_001_M13_M13.fcs/cells/mCherry	85.8	10795
+Specimen_001_M14_M14.fcs		13794
+Specimen_001_M14_M14.fcs/cells	99.9	13782
+Specimen_001_M14_M14.fcs/cells/mCherry	80.7	11119
+Specimen_001_M15_M15.fcs		1083
+Specimen_001_M15_M15.fcs/cells	99.8	1081
+Specimen_001_M15_M15.fcs/cells/mCherry	87.1	942
+Specimen_001_M16_M16.fcs		12521
+Specimen_001_M16_M16.fcs/cells	99.8	12499
+Specimen_001_M16_M16.fcs/cells/mCherry	80.3	10039
+Specimen_001_M17_M17.fcs		13281
+Specimen_001_M17_M17.fcs/cells	99.9	13267
+Specimen_001_M17_M17.fcs/cells/mCherry	89.1	11823
+Specimen_001_M18_M18.fcs		12996
+Specimen_001_M18_M18.fcs/cells	99.9	12989
+Specimen_001_M18_M18.fcs/cells/mCherry	83.9	10894
+Specimen_001_M19_M19.fcs		13110
+Specimen_001_M19_M19.fcs/cells	99.9	13099
+Specimen_001_M19_M19.fcs/cells/mCherry	85.6	11213
+Specimen_001_M20_M20.fcs		10846
+Specimen_001_M20_M20.fcs/cells	99.9	10830
+Specimen_001_M20_M20.fcs/cells/mCherry	82.5	8930
+Specimen_001_M21_M21.fcs		12483
+Specimen_001_M21_M21.fcs/cells	99.9	12471
+Specimen_001_M21_M21.fcs/cells/mCherry	89.6	11173
+Specimen_001_M22_M22.fcs		13794
+Specimen_001_M22_M22.fcs/cells	99.9	13784
+Specimen_001_M22_M22.fcs/cells/mCherry	84.2	11609
+Specimen_001_M23_M23.fcs		17499
+Specimen_001_M23_M23.fcs/cells	99.9	17490
+Specimen_001_M23_M23.fcs/cells/mCherry	99.8	17455
+Specimen_001_M24_M24.fcs		13794
+Specimen_001_M24_M24.fcs/cells	100	13790
+Specimen_001_M24_M24.fcs/cells/mCherry	99.9	13773
+Specimen_001_N1_N01.fcs		12198
+Specimen_001_N1_N01.fcs/cells	100	12194
+Specimen_001_N1_N01.fcs/cells/mCherry	90.6	11052
+Specimen_001_N2_N02.fcs		17841
+Specimen_001_N2_N02.fcs/cells	100	17835
+Specimen_001_N2_N02.fcs/cells/mCherry	88.9	15862
+Specimen_001_N3_N03.fcs		16929
+Specimen_001_N3_N03.fcs/cells	99.9	16916
+Specimen_001_N3_N03.fcs/cells/mCherry	61.8	10449
+Specimen_001_N4_N04.fcs		17556
+Specimen_001_N4_N04.fcs/cells	100	17548
+Specimen_001_N4_N04.fcs/cells/mCherry	56.9	9988
+Specimen_001_N5_N05.fcs		12597
+Specimen_001_N5_N05.fcs/cells	100	12593
+Specimen_001_N5_N05.fcs/cells/mCherry	57.6	7253
+Specimen_001_N6_N06.fcs		16872
+Specimen_001_N6_N06.fcs/cells	100	16865
+Specimen_001_N6_N06.fcs/cells/mCherry	55.3	9333
+Specimen_001_N7_N07.fcs		15789
+Specimen_001_N7_N07.fcs/cells	99.9	15773
+Specimen_001_N7_N07.fcs/cells/mCherry	59.5	9384
+Specimen_001_N8_N08.fcs		16188
+Specimen_001_N8_N08.fcs/cells	100	16183
+Specimen_001_N8_N08.fcs/cells/mCherry	58.3	9430
+Specimen_001_N9_N09.fcs		14592
+Specimen_001_N9_N09.fcs/cells	100	14586
+Specimen_001_N9_N09.fcs/cells/mCherry	58.3	8500
+Specimen_001_N10_N10.fcs		16416
+Specimen_001_N10_N10.fcs/cells	100	16414
+Specimen_001_N10_N10.fcs/cells/mCherry	56.4	9251
+Specimen_001_N11_N11.fcs		15447
+Specimen_001_N11_N11.fcs/cells	99.9	15438
+Specimen_001_N11_N11.fcs/cells/mCherry	57.2	8824
+Specimen_001_N12_N12.fcs		16206
+Specimen_001_N12_N12.fcs/cells	99.9	16195
+Specimen_001_N12_N12.fcs/cells/mCherry	54.9	8898
+Specimen_001_N13_N13.fcs		11115
+Specimen_001_N13_N13.fcs/cells	99.9	11102
+Specimen_001_N13_N13.fcs/cells/mCherry	82.7	9185
+Specimen_001_N14_N14.fcs		13794
+Specimen_001_N14_N14.fcs/cells	99.9	13784
+Specimen_001_N14_N14.fcs/cells/mCherry	81.1	11175
+Specimen_001_N15_N15.fcs		10545
+Specimen_001_N15_N15.fcs/cells	99.9	10539
+Specimen_001_N15_N15.fcs/cells/mCherry	81.9	8635
+Specimen_001_N16_N16.fcs		14478
+Specimen_001_N16_N16.fcs/cells	100	14472
+Specimen_001_N16_N16.fcs/cells/mCherry	77	11137
+Specimen_001_N17_N17.fcs		11115
+Specimen_001_N17_N17.fcs/cells	99.9	11106
+Specimen_001_N17_N17.fcs/cells/mCherry	85.7	9518
+Specimen_001_N18_N18.fcs		12627
+Specimen_001_N18_N18.fcs/cells	99.9	12615
+Specimen_001_N18_N18.fcs/cells/mCherry	83.8	10576
+Specimen_001_N19_N19.fcs		9804
+Specimen_001_N19_N19.fcs/cells	99.9	9798
+Specimen_001_N19_N19.fcs/cells/mCherry	84.3	8263
+Specimen_001_N20_N20.fcs		14136
+Specimen_001_N20_N20.fcs/cells	100	14133
+Specimen_001_N20_N20.fcs/cells/mCherry	81.8	11565
+Specimen_001_N21_N21.fcs		12141
+Specimen_001_N21_N21.fcs/cells	99.9	12134
+Specimen_001_N21_N21.fcs/cells/mCherry	86.1	10453
+Specimen_001_N22_N22.fcs		18126
+Specimen_001_N22_N22.fcs/cells	100	18119
+Specimen_001_N22_N22.fcs/cells/mCherry	83.9	15209
+Specimen_001_N23_N23.fcs		13509
+Specimen_001_N23_N23.fcs/cells	100	13503
+Specimen_001_N23_N23.fcs/cells/mCherry	99.4	13416
+Specimen_001_N24_N24.fcs		16701
+Specimen_001_N24_N24.fcs/cells	100	16696
+Specimen_001_N24_N24.fcs/cells/mCherry	99.7	16640
+Specimen_001_O1_O01.fcs		17613
+Specimen_001_O1_O01.fcs/cells	99.9	17599
+Specimen_001_O1_O01.fcs/cells/mCherry	99.7	17551
+Specimen_001_O2_O02.fcs		16359
+Specimen_001_O2_O02.fcs/cells	99.9	16350
+Specimen_001_O2_O02.fcs/cells/mCherry	99.9	16329
+Specimen_001_O3_O03.fcs		14535
+Specimen_001_O3_O03.fcs/cells	100	14533
+Specimen_001_O3_O03.fcs/cells/mCherry	99.7	14489
+Specimen_001_O4_O04.fcs		12939
+Specimen_001_O4_O04.fcs/cells	100	12935
+Specimen_001_O4_O04.fcs/cells/mCherry	99.8	12909
+Specimen_001_O5_O05.fcs		16530
+Specimen_001_O5_O05.fcs/cells	99.9	16520
+Specimen_001_O5_O05.fcs/cells/mCherry	67.8	11205
+Specimen_001_O6_O06.fcs		17271
+Specimen_001_O6_O06.fcs/cells	99.9	17258
+Specimen_001_O6_O06.fcs/cells/mCherry	59.1	10206
+Specimen_001_O7_O07.fcs		17841
+Specimen_001_O7_O07.fcs/cells	99.9	17829
+Specimen_001_O7_O07.fcs/cells/mCherry	69.8	12442
+Specimen_001_O8_O08.fcs		16017
+Specimen_001_O8_O08.fcs/cells	100	16012
+Specimen_001_O8_O08.fcs/cells/mCherry	64	10247
+Specimen_001_O9_O09.fcs		15276
+Specimen_001_O9_O09.fcs/cells	100	15271
+Specimen_001_O9_O09.fcs/cells/mCherry	68.6	10473
+Specimen_001_O10_O10.fcs		15219
+Specimen_001_O10_O10.fcs/cells	100	15212
+Specimen_001_O10_O10.fcs/cells/mCherry	59.7	9089
+Specimen_001_O11_O11.fcs		15789
+Specimen_001_O11_O11.fcs/cells	99.9	15780
+Specimen_001_O11_O11.fcs/cells/mCherry	63.6	10031
+Specimen_001_O12_O12.fcs		16074
+Specimen_001_O12_O12.fcs/cells	100	16072
+Specimen_001_O12_O12.fcs/cells/mCherry	55.5	8926
+Specimen_001_O13_O13.fcs		12312
+Specimen_001_O13_O13.fcs/cells	99.9	12302
+Specimen_001_O13_O13.fcs/cells/mCherry	90.7	11159
+Specimen_001_O14_O14.fcs		12825
+Specimen_001_O14_O14.fcs/cells	99.9	12811
+Specimen_001_O14_O14.fcs/cells/mCherry	88.1	11291
+Specimen_001_O15_O15.fcs		14250
+Specimen_001_O15_O15.fcs/cells	99.9	14242
+Specimen_001_O15_O15.fcs/cells/mCherry	81.8	11652
+Specimen_001_O16_O16.fcs		12882
+Specimen_001_O16_O16.fcs/cells	100	12879
+Specimen_001_O16_O16.fcs/cells/mCherry	76.9	9908
+Specimen_001_O17_O17.fcs		14364
+Specimen_001_O17_O17.fcs/cells	100	14360
+Specimen_001_O17_O17.fcs/cells/mCherry	80.5	11556
+Specimen_001_O18_O18.fcs		14421
+Specimen_001_O18_O18.fcs/cells	99.9	14410
+Specimen_001_O18_O18.fcs/cells/mCherry	70.3	10135
+Specimen_001_O19_O19.fcs		14452
+Specimen_001_O19_O19.fcs/cells	99.9	14436
+Specimen_001_O19_O19.fcs/cells/mCherry	90.5	13068
+Specimen_001_O20_O20.fcs		12882
+Specimen_001_O20_O20.fcs/cells	99.9	12875
+Specimen_001_O20_O20.fcs/cells/mCherry	86.6	11147
+Specimen_001_O21_O21.fcs		16473
+Specimen_001_O21_O21.fcs/cells	99.9	16459
+Specimen_001_O21_O21.fcs/cells/mCherry	95.3	15686
+Specimen_001_O22_O22.fcs		14250
+Specimen_001_O22_O22.fcs/cells	99.9	14242
+Specimen_001_O22_O22.fcs/cells/mCherry	92.7	13202
+Specimen_001_O23_O23.fcs		17909
+Specimen_001_O23_O23.fcs/cells	99.9	17898
+Specimen_001_O23_O23.fcs/cells/mCherry	99.6	17835
+Specimen_001_O24_O24.fcs		14991
+Specimen_001_O24_O24.fcs/cells	100	14988
+Specimen_001_O24_O24.fcs/cells/mCherry	99.8	14959
+Specimen_001_P1_P01.fcs		12828
+Specimen_001_P1_P01.fcs/cells	99.9	12814
+Specimen_001_P1_P01.fcs/cells/mCherry	99.2	12713
+Specimen_001_P2_P02.fcs		18012
+Specimen_001_P2_P02.fcs/cells	100	18007
+Specimen_001_P2_P02.fcs/cells/mCherry	99.8	17973
+Specimen_001_P3_P03.fcs		13110
+Specimen_001_P3_P03.fcs/cells	100	13106
+Specimen_001_P3_P03.fcs/cells/mCherry	98.9	12961
+Specimen_001_P4_P04.fcs		17157
+Specimen_001_P4_P04.fcs/cells	100	17154
+Specimen_001_P4_P04.fcs/cells/mCherry	99.8	17121
+Specimen_001_P5_P05.fcs		16245
+Specimen_001_P5_P05.fcs/cells	100	16238
+Specimen_001_P5_P05.fcs/cells/mCherry	61.7	10013
+Specimen_001_P6_P06.fcs		19494
+Specimen_001_P6_P06.fcs/cells	100	19486
+Specimen_001_P6_P06.fcs/cells/mCherry	58.6	11418
+Specimen_001_P7_P07.fcs		16302
+Specimen_001_P7_P07.fcs/cells	99.9	16292
+Specimen_001_P7_P07.fcs/cells/mCherry	65	10583
+Specimen_001_P8_P08.fcs		17613
+Specimen_001_P8_P08.fcs/cells	100	17607
+Specimen_001_P8_P08.fcs/cells/mCherry	64.3	11314
+Specimen_001_P9_P09.fcs		14279
+Specimen_001_P9_P09.fcs/cells	99.9	14270
+Specimen_001_P9_P09.fcs/cells/mCherry	63	8993
+Specimen_001_P10_P10.fcs		17499
+Specimen_001_P10_P10.fcs/cells	100	17497
+Specimen_001_P10_P10.fcs/cells/mCherry	58.2	10188
+Specimen_001_P11_P11.fcs		12930
+Specimen_001_P11_P11.fcs/cells	99.9	12919
+Specimen_001_P11_P11.fcs/cells/mCherry	57.2	7390
+Specimen_001_P12_P12.fcs		16644
+Specimen_001_P12_P12.fcs/cells	100	16637
+Specimen_001_P12_P12.fcs/cells/mCherry	57	9485
+Specimen_001_P13_P13.fcs		11628
+Specimen_001_P13_P13.fcs/cells	99.9	11618
+Specimen_001_P13_P13.fcs/cells/mCherry	86.2	10020
+Specimen_001_P14_P14.fcs		14592
+Specimen_001_P14_P14.fcs/cells	100	14585
+Specimen_001_P14_P14.fcs/cells/mCherry	84.8	12368
+Specimen_001_P15_P15.fcs		10933
+Specimen_001_P15_P15.fcs/cells	99.9	10923
+Specimen_001_P15_P15.fcs/cells/mCherry	75.1	8206
+Specimen_001_P16_P16.fcs		16587
+Specimen_001_P16_P16.fcs/cells	100	16582
+Specimen_001_P16_P16.fcs/cells/mCherry	74	12276
+Specimen_001_P17_P17.fcs		13851
+Specimen_001_P17_P17.fcs/cells	99.9	13841
+Specimen_001_P17_P17.fcs/cells/mCherry	72.1	9978
+Specimen_001_P18_P18.fcs		16758
+Specimen_001_P18_P18.fcs/cells	100	16753
+Specimen_001_P18_P18.fcs/cells/mCherry	69.9	11704
+Specimen_001_P19_P19.fcs		12882
+Specimen_001_P19_P19.fcs/cells	99.9	12875
+Specimen_001_P19_P19.fcs/cells/mCherry	87.8	11306
+Specimen_001_P20_P20.fcs		15766
+Specimen_001_P20_P20.fcs/cells	99.9	15755
+Specimen_001_P20_P20.fcs/cells/mCherry	85.6	13494
+Specimen_001_P21_P21.fcs		12540
+Specimen_001_P21_P21.fcs/cells	99.9	12532
+Specimen_001_P21_P21.fcs/cells/mCherry	92.5	11587
+Specimen_001_P22_P22.fcs		18126
+Specimen_001_P22_P22.fcs/cells	100	18117
+Specimen_001_P22_P22.fcs/cells/mCherry	92.2	16707
+Specimen_001_P23_P23.fcs		14136
+Specimen_001_P23_P23.fcs/cells	100	14133
+Specimen_001_P23_P23.fcs/cells/mCherry	99.5	14065
+Specimen_001_P24_P24.fcs		20000
+Specimen_001_P24_P24.fcs/cells	100	19991
+Specimen_001_P24_P24.fcs/cells/mCherry	99.8	19951

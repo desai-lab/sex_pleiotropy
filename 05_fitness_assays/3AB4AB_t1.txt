@@ -1,0 +1,643 @@
+Name	Statistic	Cells
+Specimen_001_A1_A01.fcs		6
+Specimen_001_A1_A01.fcs/mCherry	16.7	1
+Specimen_001_A3_A03.fcs		7234
+Specimen_001_A3_A03.fcs/mCherry	95.7	6925
+Specimen_001_A4_A04.fcs		5262
+Specimen_001_A4_A04.fcs/mCherry	93.6	4925
+Specimen_001_A5_A05.fcs		8272
+Specimen_001_A5_A05.fcs/mCherry	66.5	5503
+Specimen_001_A6_A06.fcs		5520
+Specimen_001_A6_A06.fcs/mCherry	63.4	3502
+Specimen_001_A7_A07.fcs		7473
+Specimen_001_A7_A07.fcs/mCherry	47.6	3555
+Specimen_001_A8_A08.fcs		6627
+Specimen_001_A8_A08.fcs/mCherry	42	2781
+Specimen_001_A9_A09.fcs		7802
+Specimen_001_A9_A09.fcs/mCherry	72.8	5679
+Specimen_001_A10_A10.fcs		2445
+Specimen_001_A10_A10.fcs/mCherry	70.7	1729
+Specimen_001_A11_A11.fcs		2424
+Specimen_001_A11_A11.fcs/mCherry	43.8	1061
+Specimen_001_A12_A12.fcs		5790
+Specimen_001_A12_A12.fcs/mCherry	41.1	2378
+Specimen_001_A13_A13.fcs		6630
+Specimen_001_A13_A13.fcs/mCherry	50.2	3328
+Specimen_001_A14_A14.fcs		5730
+Specimen_001_A14_A14.fcs/mCherry	44.8	2568
+Specimen_001_A15_A15.fcs		5461
+Specimen_001_A15_A15.fcs/mCherry	72.8	3975
+Specimen_001_A16_A16.fcs		4879
+Specimen_001_A16_A16.fcs/mCherry	71.4	3486
+Specimen_001_A17_A17.fcs		7802
+Specimen_001_A17_A17.fcs/mCherry	49.9	3896
+Specimen_001_A18_A18.fcs		6170
+Specimen_001_A18_A18.fcs/mCherry	43.7	2698
+Specimen_001_A19_A19.fcs		7520
+Specimen_001_A19_A19.fcs/mCherry	65.2	4904
+Specimen_001_A20_A20.fcs		6127
+Specimen_001_A20_A20.fcs/mCherry	60.6	3713
+Specimen_001_A21_A21.fcs		7567
+Specimen_001_A21_A21.fcs/mCherry	95.8	7251
+Specimen_001_A22_A22.fcs		6327
+Specimen_001_A22_A22.fcs/mCherry	95	6009
+Specimen_001_B3_B03.fcs		17625
+Specimen_001_B3_B03.fcs/mCherry	97.8	17233
+Specimen_001_B4_B04.fcs		18330
+Specimen_001_B4_B04.fcs/mCherry	96	17601
+Specimen_001_B5_B05.fcs		14241
+Specimen_001_B5_B05.fcs/mCherry	69	9830
+Specimen_001_B6_B06.fcs		14899
+Specimen_001_B6_B06.fcs/mCherry	67.4	10045
+Specimen_001_B7_B07.fcs		14147
+Specimen_001_B7_B07.fcs/mCherry	54	7646
+Specimen_001_B8_B08.fcs		14288
+Specimen_001_B8_B08.fcs/mCherry	50.6	7226
+Specimen_001_B9_B09.fcs		13207
+Specimen_001_B9_B09.fcs/mCherry	61.5	8119
+Specimen_001_B10_B10.fcs		13583
+Specimen_001_B10_B10.fcs/mCherry	57.1	7754
+Specimen_001_B11_B11.fcs		11938
+Specimen_001_B11_B11.fcs/mCherry	54.2	6475
+Specimen_001_B12_B12.fcs		12925
+Specimen_001_B12_B12.fcs/mCherry	48.4	6257
+Specimen_001_B13_B13.fcs		13536
+Specimen_001_B13_B13.fcs/mCherry	59.2	8019
+Specimen_001_B14_B14.fcs		13583
+Specimen_001_B14_B14.fcs/mCherry	58.2	7904
+Specimen_001_B15_B15.fcs		12972
+Specimen_001_B15_B15.fcs/mCherry	61.2	7942
+Specimen_001_B16_B16.fcs		14194
+Specimen_001_B16_B16.fcs/mCherry	58.9	8362
+Specimen_001_B17_B17.fcs		13348
+Specimen_001_B17_B17.fcs/mCherry	57.3	7650
+Specimen_001_B18_B18.fcs		14805
+Specimen_001_B18_B18.fcs/mCherry	53.5	7925
+Specimen_001_B19_B19.fcs		14711
+Specimen_001_B19_B19.fcs/mCherry	68.3	10054
+Specimen_001_B20_B20.fcs		15416
+Specimen_001_B20_B20.fcs/mCherry	65.7	10127
+Specimen_001_B21_B21.fcs		18377
+Specimen_001_B21_B21.fcs/mCherry	96.9	17816
+Specimen_001_B22_B22.fcs		19129
+Specimen_001_B22_B22.fcs/mCherry	98.1	18769
+Specimen_001_C3_C03.fcs		8131
+Specimen_001_C3_C03.fcs/mCherry	86.8	7060
+Specimen_001_C4_C04.fcs		4848
+Specimen_001_C4_C04.fcs/mCherry	88.6	4293
+Specimen_001_C5_C05.fcs		7377
+Specimen_001_C5_C05.fcs/mCherry	49.9	3680
+Specimen_001_C6_C06.fcs		6019
+Specimen_001_C6_C06.fcs/mCherry	44.9	2703
+Specimen_001_C7_C07.fcs		7754
+Specimen_001_C7_C07.fcs/mCherry	65.2	5056
+Specimen_001_C8_C08.fcs		4938
+Specimen_001_C8_C08.fcs/mCherry	63.2	3122
+Specimen_001_C9_C09.fcs		7661
+Specimen_001_C9_C09.fcs/mCherry	67.9	5198
+Specimen_001_C10_C10.fcs		4852
+Specimen_001_C10_C10.fcs/mCherry	66.7	3235
+Specimen_001_C11_C11.fcs		6903
+Specimen_001_C11_C11.fcs/mCherry	95.3	6580
+Specimen_001_C12_C12.fcs		4193
+Specimen_001_C12_C12.fcs/mCherry	95.2	3991
+Specimen_001_C13_C13.fcs		5324
+Specimen_001_C13_C13.fcs/mCherry	95.4	5081
+Specimen_001_C14_C14.fcs		4462
+Specimen_001_C14_C14.fcs/mCherry	95.3	4252
+Specimen_001_C15_C15.fcs		5776
+Specimen_001_C15_C15.fcs/mCherry	65.2	3768
+Specimen_001_C16_C16.fcs		5128
+Specimen_001_C16_C16.fcs/mCherry	63.4	3249
+Specimen_001_C17_C17.fcs		6258
+Specimen_001_C17_C17.fcs/mCherry	64.6	4043
+Specimen_001_C18_C18.fcs		5329
+Specimen_001_C18_C18.fcs/mCherry	63.6	3387
+Specimen_001_C19_C19.fcs		7802
+Specimen_001_C19_C19.fcs/mCherry	48.4	3778
+Specimen_001_C20_C20.fcs		6432
+Specimen_001_C20_C20.fcs/mCherry	44	2830
+Specimen_001_C21_C21.fcs		6574
+Specimen_001_C21_C21.fcs/mCherry	86.9	5715
+Specimen_001_C22_C22.fcs		5267
+Specimen_001_C22_C22.fcs/mCherry	87.9	4630
+Specimen_001_D3_D03.fcs		13677
+Specimen_001_D3_D03.fcs/mCherry	86.3	11808
+Specimen_001_D4_D04.fcs		15134
+Specimen_001_D4_D04.fcs/mCherry	84.6	12808
+Specimen_001_D5_D05.fcs		13019
+Specimen_001_D5_D05.fcs/mCherry	58.8	7651
+Specimen_001_D6_D06.fcs		14570
+Specimen_001_D6_D06.fcs/mCherry	58.7	8557
+Specimen_001_D7_D07.fcs		12596
+Specimen_001_D7_D07.fcs/mCherry	64.8	8163
+Specimen_001_D8_D08.fcs		13630
+Specimen_001_D8_D08.fcs/mCherry	61.4	8374
+Specimen_001_D9_D09.fcs		13489
+Specimen_001_D9_D09.fcs/mCherry	66.1	8916
+Specimen_001_D10_D10.fcs		14570
+Specimen_001_D10_D10.fcs/mCherry	64.9	9456
+Specimen_001_D11_D11.fcs		16356
+Specimen_001_D11_D11.fcs/mCherry	98.1	16044
+Specimen_001_D12_D12.fcs		17061
+Specimen_001_D12_D12.fcs/mCherry	97.7	16675
+Specimen_001_D13_D13.fcs		15651
+Specimen_001_D13_D13.fcs/mCherry	97.8	15302
+Specimen_001_D14_D14.fcs		17719
+Specimen_001_D14_D14.fcs/mCherry	97.2	17220
+Specimen_001_D15_D15.fcs		13536
+Specimen_001_D15_D15.fcs/mCherry	63.3	8562
+Specimen_001_D16_D16.fcs		14335
+Specimen_001_D16_D16.fcs/mCherry	66.1	9474
+Specimen_001_D17_D17.fcs		13912
+Specimen_001_D17_D17.fcs/mCherry	67.2	9342
+Specimen_001_D18_D18.fcs		13865
+Specimen_001_D18_D18.fcs/mCherry	64.1	8883
+Specimen_001_D19_D19.fcs		13959
+Specimen_001_D19_D19.fcs/mCherry	58.3	8134
+Specimen_001_D20_D20.fcs		15134
+Specimen_001_D20_D20.fcs/mCherry	58.2	8806
+Specimen_001_D21_D21.fcs		14194
+Specimen_001_D21_D21.fcs/mCherry	87.1	12369
+Specimen_001_D22_D22.fcs		16027
+Specimen_001_D22_D22.fcs/mCherry	85.1	13635
+Specimen_001_E3_E03.fcs		7426
+Specimen_001_E3_E03.fcs/mCherry	53.6	3977
+Specimen_001_E4_E04.fcs		6561
+Specimen_001_E4_E04.fcs/mCherry	47.9	3144
+Specimen_001_E5_E05.fcs		6814
+Specimen_001_E5_E05.fcs/mCherry	46.4	3164
+Specimen_001_E6_E06.fcs		6208
+Specimen_001_E6_E06.fcs/mCherry	39.5	2453
+Specimen_001_E7_E07.fcs		7614
+Specimen_001_E7_E07.fcs/mCherry	42.9	3266
+Specimen_001_E8_E08.fcs		6332
+Specimen_001_E8_E08.fcs/mCherry	38.5	2437
+Specimen_001_E9_E09.fcs		6668
+Specimen_001_E9_E09.fcs/mCherry	63.9	4259
+Specimen_001_E10_E10.fcs		5460
+Specimen_001_E10_E10.fcs/mCherry	62.2	3394
+Specimen_001_E11_E11.fcs		5682
+Specimen_001_E11_E11.fcs/mCherry	73.7	4188
+Specimen_001_E12_E12.fcs		4590
+Specimen_001_E12_E12.fcs/mCherry	74.8	3435
+Specimen_001_E13_E13.fcs		6903
+Specimen_001_E13_E13.fcs/mCherry	74.6	5149
+Specimen_001_E14_E14.fcs		4401
+Specimen_001_E14_E14.fcs/mCherry	74.8	3291
+Specimen_001_E15_E15.fcs		8084
+Specimen_001_E15_E15.fcs/mCherry	66.2	5355
+Specimen_001_E16_E16.fcs		5525
+Specimen_001_E16_E16.fcs/mCherry	67.2	3712
+Specimen_001_E17_E17.fcs		7755
+Specimen_001_E17_E17.fcs/mCherry	46.2	3585
+Specimen_001_E18_E18.fcs		6294
+Specimen_001_E18_E18.fcs/mCherry	43	2709
+Specimen_001_E19_E19.fcs		7561
+Specimen_001_E19_E19.fcs/mCherry	42	3172
+Specimen_001_E20_E20.fcs		6331
+Specimen_001_E20_E20.fcs/mCherry	39.7	2514
+Specimen_001_E21_E21.fcs		7567
+Specimen_001_E21_E21.fcs/mCherry	54.4	4117
+Specimen_001_E22_E22.fcs		1779
+Specimen_001_E22_E22.fcs/mCherry	56.2	1000
+Specimen_001_F3_F03.fcs		13630
+Specimen_001_F3_F03.fcs/mCherry	59.4	8092
+Specimen_001_F4_F04.fcs		14053
+Specimen_001_F4_F04.fcs/mCherry	58.2	8177
+Specimen_001_F5_F05.fcs		13066
+Specimen_001_F5_F05.fcs/mCherry	58.7	7665
+Specimen_001_F6_F06.fcs		12925
+Specimen_001_F6_F06.fcs/mCherry	57.3	7407
+Specimen_001_F7_F07.fcs		12878
+Specimen_001_F7_F07.fcs/mCherry	54.9	7065
+Specimen_001_F8_F08.fcs		14241
+Specimen_001_F8_F08.fcs/mCherry	52.2	7430
+Specimen_001_F9_F09.fcs		14570
+Specimen_001_F9_F09.fcs/mCherry	70.4	10261
+Specimen_001_F10_F10.fcs		15510
+Specimen_001_F10_F10.fcs/mCherry	68.5	10618
+Specimen_001_F11_F11.fcs		14523
+Specimen_001_F11_F11.fcs/mCherry	62	9010
+Specimen_001_F12_F12.fcs		15745
+Specimen_001_F12_F12.fcs/mCherry	68	10702
+Specimen_001_F13_F13.fcs		13019
+Specimen_001_F13_F13.fcs/mCherry	66.4	8650
+Specimen_001_F14_F14.fcs		14899
+Specimen_001_F14_F14.fcs/mCherry	65.5	9761
+Specimen_001_F15_F15.fcs		13818
+Specimen_001_F15_F15.fcs/mCherry	71.1	9819
+Specimen_001_F16_F16.fcs		14946
+Specimen_001_F16_F16.fcs/mCherry	68.1	10173
+Specimen_001_F17_F17.fcs		11891
+Specimen_001_F17_F17.fcs/mCherry	59.8	7111
+Specimen_001_F18_F18.fcs		14805
+Specimen_001_F18_F18.fcs/mCherry	58.4	8653
+Specimen_001_F19_F19.fcs		13489
+Specimen_001_F19_F19.fcs/mCherry	57.1	7705
+Specimen_001_F20_F20.fcs		14429
+Specimen_001_F20_F20.fcs/mCherry	56.3	8123
+Specimen_001_F21_F21.fcs		13771
+Specimen_001_F21_F21.fcs/mCherry	60	8269
+Specimen_001_F22_F22.fcs		14946
+Specimen_001_F22_F22.fcs/mCherry	59.3	8856
+Specimen_001_G3_G03.fcs		9400
+Specimen_001_G3_G03.fcs/mCherry	59.4	5583
+Specimen_001_G4_G04.fcs		6213
+Specimen_001_G4_G04.fcs/mCherry	52.2	3243
+Specimen_001_G5_G05.fcs		7943
+Specimen_001_G5_G05.fcs/mCherry	43.7	3469
+Specimen_001_G6_G06.fcs		6862
+Specimen_001_G6_G06.fcs/mCherry	38.8	2664
+Specimen_001_G7_G07.fcs		6315
+Specimen_001_G7_G07.fcs/mCherry	60.1	3798
+Specimen_001_G8_G08.fcs		5122
+Specimen_001_G8_G08.fcs/mCherry	58.1	2977
+Specimen_001_G9_G09.fcs		6721
+Specimen_001_G9_G09.fcs/mCherry	56.8	3817
+Specimen_001_G10_G10.fcs		5402
+Specimen_001_G10_G10.fcs/mCherry	54.9	2967
+Specimen_001_G11_G11.fcs		6714
+Specimen_001_G11_G11.fcs/mCherry	51.3	3447
+Specimen_001_G12_G12.fcs		4881
+Specimen_001_G12_G12.fcs/mCherry	46	2243
+Specimen_001_G13_G13.fcs		6533
+Specimen_001_G13_G13.fcs/mCherry	54.3	3547
+Specimen_001_G14_G14.fcs		5808
+Specimen_001_G14_G14.fcs/mCherry	51.8	3006
+Specimen_001_G15_G15.fcs		6290
+Specimen_001_G15_G15.fcs/mCherry	58.1	3657
+Specimen_001_G16_G16.fcs		5099
+Specimen_001_G16_G16.fcs/mCherry	51.7	2636
+Specimen_001_G17_G17.fcs		6481
+Specimen_001_G17_G17.fcs/mCherry	63.8	4138
+Specimen_001_G18_G18.fcs		5330
+Specimen_001_G18_G18.fcs/mCherry	62.6	3337
+Specimen_001_G19_G19.fcs		8131
+Specimen_001_G19_G19.fcs/mCherry	47.8	3885
+Specimen_001_G20_G20.fcs		6855
+Specimen_001_G20_G20.fcs/mCherry	45.3	3103
+Specimen_001_G21_G21.fcs		8648
+Specimen_001_G21_G21.fcs/mCherry	54.6	4724
+Specimen_001_G22_G22.fcs		7661
+Specimen_001_G22_G22.fcs/mCherry	51	3910
+Specimen_001_H3_H03.fcs		12549
+Specimen_001_H3_H03.fcs/mCherry	68.8	8628
+Specimen_001_H4_H04.fcs		15792
+Specimen_001_H4_H04.fcs/mCherry	67.2	10618
+Specimen_001_H5_H05.fcs		11938
+Specimen_001_H5_H05.fcs/mCherry	54.4	6492
+Specimen_001_H6_H06.fcs		14758
+Specimen_001_H6_H06.fcs/mCherry	54.6	8056
+Specimen_001_H7_H07.fcs		13066
+Specimen_001_H7_H07.fcs/mCherry	60.8	7940
+Specimen_001_H8_H08.fcs		14335
+Specimen_001_H8_H08.fcs/mCherry	58.9	8442
+Specimen_001_H9_H09.fcs		12408
+Specimen_001_H9_H09.fcs/mCherry	64.6	8017
+Specimen_001_H10_H10.fcs		14429
+Specimen_001_H10_H10.fcs/mCherry	62.9	9076
+Specimen_001_H11_H11.fcs		13348
+Specimen_001_H11_H11.fcs/mCherry	44.6	5955
+Specimen_001_H12_H12.fcs		14100
+Specimen_001_H12_H12.fcs/mCherry	53.3	7520
+Specimen_001_H13_H13.fcs		13348
+Specimen_001_H13_H13.fcs/mCherry	59.2	7901
+Specimen_001_H14_H14.fcs		14852
+Specimen_001_H14_H14.fcs/mCherry	57.1	8474
+Specimen_001_H15_H15.fcs		12737
+Specimen_001_H15_H15.fcs/mCherry	65.9	8392
+Specimen_001_H16_H16.fcs		13818
+Specimen_001_H16_H16.fcs/mCherry	63.5	8775
+Specimen_001_H17_H17.fcs		13630
+Specimen_001_H17_H17.fcs/mCherry	62.6	8537
+Specimen_001_H18_H18.fcs		14664
+Specimen_001_H18_H18.fcs/mCherry	60.7	8906
+Specimen_001_H19_H19.fcs		13771
+Specimen_001_H19_H19.fcs/mCherry	63	8682
+Specimen_001_H20_H20.fcs		15698
+Specimen_001_H20_H20.fcs/mCherry	59.6	9349
+Specimen_001_H21_H21.fcs		17390
+Specimen_001_H21_H21.fcs/mCherry	64.3	11181
+Specimen_001_H22_H22.fcs		13348
+Specimen_001_H22_H22.fcs/mCherry	58.6	7818
+Specimen_001_I3_I03.fcs		6171
+Specimen_001_I3_I03.fcs/mCherry	85.2	5259
+Specimen_001_I4_I04.fcs		5263
+Specimen_001_I4_I04.fcs/mCherry	86.6	4559
+Specimen_001_I5_I05.fcs		7614
+Specimen_001_I5_I05.fcs/mCherry	49.3	3755
+Specimen_001_I6_I06.fcs		5974
+Specimen_001_I6_I06.fcs/mCherry	48.7	2910
+Specimen_001_I7_I07.fcs		9353
+Specimen_001_I7_I07.fcs/mCherry	45.6	4261
+Specimen_001_I8_I08.fcs		5720
+Specimen_001_I8_I08.fcs/mCherry	41.7	2387
+Specimen_001_I9_I09.fcs		9118
+Specimen_001_I9_I09.fcs/mCherry	57.6	5251
+Specimen_001_I10_I10.fcs		5791
+Specimen_001_I10_I10.fcs/mCherry	54.8	3172
+Specimen_001_I11_I11.fcs		8084
+Specimen_001_I11_I11.fcs/mCherry	72.3	5848
+Specimen_001_I12_I12.fcs		6310
+Specimen_001_I12_I12.fcs/mCherry	73.8	4656
+Specimen_001_I13_I13.fcs		6064
+Specimen_001_I13_I13.fcs/mCherry	75.2	4562
+Specimen_001_I14_I14.fcs		4809
+Specimen_001_I14_I14.fcs/mCherry	73.6	3540
+Specimen_001_I15_I15.fcs		7754
+Specimen_001_I15_I15.fcs/mCherry	58.3	4522
+Specimen_001_I16_I16.fcs		5880
+Specimen_001_I16_I16.fcs/mCherry	56.9	3344
+Specimen_001_I17_I17.fcs		7048
+Specimen_001_I17_I17.fcs/mCherry	47.6	3354
+Specimen_001_I18_I18.fcs		6307
+Specimen_001_I18_I18.fcs/mCherry	42.4	2674
+Specimen_001_I19_I19.fcs		7426
+Specimen_001_I19_I19.fcs/mCherry	55.4	4112
+Specimen_001_I20_I20.fcs		6204
+Specimen_001_I20_I20.fcs/mCherry	51.9	3220
+Specimen_001_I21_I21.fcs		6258
+Specimen_001_I21_I21.fcs/mCherry	86.6	5422
+Specimen_001_I22_I22.fcs		5042
+Specimen_001_I22_I22.fcs/mCherry	87.8	4429
+Specimen_001_J3_J03.fcs		14241
+Specimen_001_J3_J03.fcs/mCherry	85.8	12213
+Specimen_001_J4_J04.fcs		16121
+Specimen_001_J4_J04.fcs/mCherry	83.9	13522
+Specimen_001_J5_J05.fcs		13536
+Specimen_001_J5_J05.fcs/mCherry	58.5	7919
+Specimen_001_J6_J06.fcs		15087
+Specimen_001_J6_J06.fcs/mCherry	58.2	8783
+Specimen_001_J7_J07.fcs		10857
+Specimen_001_J7_J07.fcs/mCherry	56.8	6162
+Specimen_001_J8_J08.fcs		13113
+Specimen_001_J8_J08.fcs/mCherry	55.7	7307
+Specimen_001_J9_J09.fcs		12831
+Specimen_001_J9_J09.fcs/mCherry	64.9	8322
+Specimen_001_J10_J10.fcs		14711
+Specimen_001_J10_J10.fcs/mCherry	63.4	9323
+Specimen_001_J11_J11.fcs		13207
+Specimen_001_J11_J11.fcs/mCherry	64.8	8552
+Specimen_001_J12_J12.fcs		12925
+Specimen_001_J12_J12.fcs/mCherry	62.3	8054
+Specimen_001_J13_J13.fcs		13160
+Specimen_001_J13_J13.fcs/mCherry	65.3	8598
+Specimen_001_J14_J14.fcs		15604
+Specimen_001_J14_J14.fcs/mCherry	64.2	10016
+Specimen_001_J15_J15.fcs		12925
+Specimen_001_J15_J15.fcs/mCherry	66.3	8567
+Specimen_001_J16_J16.fcs		15228
+Specimen_001_J16_J16.fcs/mCherry	64.6	9837
+Specimen_001_J17_J17.fcs		11985
+Specimen_001_J17_J17.fcs/mCherry	60.6	7264
+Specimen_001_J18_J18.fcs		13489
+Specimen_001_J18_J18.fcs/mCherry	57.4	7747
+Specimen_001_J19_J19.fcs		12878
+Specimen_001_J19_J19.fcs/mCherry	62.9	8099
+Specimen_001_J20_J20.fcs		15745
+Specimen_001_J20_J20.fcs/mCherry	59.9	9424
+Specimen_001_J21_J21.fcs		14946
+Specimen_001_J21_J21.fcs/mCherry	87	13007
+Specimen_001_J22_J22.fcs		16309
+Specimen_001_J22_J22.fcs/mCherry	84.3	13742
+Specimen_001_K3_K03.fcs		7455
+Specimen_001_K3_K03.fcs/mCherry	78.8	5874
+Specimen_001_K4_K04.fcs		4965
+Specimen_001_K4_K04.fcs/mCherry	79.5	3949
+Specimen_001_K5_K05.fcs		10058
+Specimen_001_K5_K05.fcs/mCherry	44.6	4484
+Specimen_001_K6_K06.fcs		8319
+Specimen_001_K6_K06.fcs/mCherry	39.9	3317
+Specimen_001_K7_K07.fcs		9541
+Specimen_001_K7_K07.fcs/mCherry	50.5	4822
+Specimen_001_K8_K08.fcs		6090
+Specimen_001_K8_K08.fcs/mCherry	46.9	2856
+Specimen_001_K9_K09.fcs		9682
+Specimen_001_K9_K09.fcs/mCherry	49.8	4826
+Specimen_001_K10_K10.fcs		8460
+Specimen_001_K10_K10.fcs/mCherry	45	3805
+Specimen_001_K11_K11.fcs		6953
+Specimen_001_K11_K11.fcs/mCherry	49.7	3459
+Specimen_001_K12_K12.fcs		7422
+Specimen_001_K12_K12.fcs/mCherry	47.3	3508
+Specimen_001_K13_K13.fcs		6908
+Specimen_001_K13_K13.fcs/mCherry	48.8	3371
+Specimen_001_K14_K14.fcs		7987
+Specimen_001_K14_K14.fcs/mCherry	45.7	3648
+Specimen_001_K15_K15.fcs		7614
+Specimen_001_K15_K15.fcs/mCherry	45.8	3488
+Specimen_001_K16_K16.fcs		5825
+Specimen_001_K16_K16.fcs/mCherry	38.2	2223
+Specimen_001_K17_K17.fcs		7182
+Specimen_001_K17_K17.fcs/mCherry	52.9	3797
+Specimen_001_K18_K18.fcs		6462
+Specimen_001_K18_K18.fcs/mCherry	49.6	3206
+Specimen_001_K19_K19.fcs		7511
+Specimen_001_K19_K19.fcs/mCherry	45.3	3403
+Specimen_001_K20_K20.fcs		6809
+Specimen_001_K20_K20.fcs/mCherry	43.2	2942
+Specimen_001_K21_K21.fcs		6111
+Specimen_001_K21_K21.fcs/mCherry	77.8	4754
+Specimen_001_K22_K22.fcs		4844
+Specimen_001_K22_K22.fcs/mCherry	78.5	3803
+Specimen_001_L3_L03.fcs		14664
+Specimen_001_L3_L03.fcs/mCherry	76.8	11256
+Specimen_001_L4_L04.fcs		15933
+Specimen_001_L4_L04.fcs/mCherry	73.1	11653
+Specimen_001_L5_L05.fcs		13160
+Specimen_001_L5_L05.fcs/mCherry	58.7	7729
+Specimen_001_L6_L06.fcs		14429
+Specimen_001_L6_L06.fcs/mCherry	55.8	8058
+Specimen_001_L7_L07.fcs		14476
+Specimen_001_L7_L07.fcs/mCherry	72.8	10541
+Specimen_001_L8_L08.fcs		15933
+Specimen_001_L8_L08.fcs/mCherry	68.8	10956
+Specimen_001_L9_L09.fcs		13160
+Specimen_001_L9_L09.fcs/mCherry	63.8	8400
+Specimen_001_L10_L10.fcs		14006
+Specimen_001_L10_L10.fcs/mCherry	62.8	8795
+Specimen_001_L11_L11.fcs		12972
+Specimen_001_L11_L11.fcs/mCherry	61.1	7931
+Specimen_001_L12_L12.fcs		14335
+Specimen_001_L12_L12.fcs/mCherry	58.7	8419
+Specimen_001_L13_L13.fcs		12408
+Specimen_001_L13_L13.fcs/mCherry	57.6	7145
+Specimen_001_L14_L14.fcs		14852
+Specimen_001_L14_L14.fcs/mCherry	59.1	8784
+Specimen_001_L15_L15.fcs		12737
+Specimen_001_L15_L15.fcs/mCherry	62.3	7937
+Specimen_001_L16_L16.fcs		14100
+Specimen_001_L16_L16.fcs/mCherry	59.8	8426
+Specimen_001_L17_L17.fcs		14617
+Specimen_001_L17_L17.fcs/mCherry	74.5	10887
+Specimen_001_L18_L18.fcs		16732
+Specimen_001_L18_L18.fcs/mCherry	71.1	11893
+Specimen_001_L19_L19.fcs		13818
+Specimen_001_L19_L19.fcs/mCherry	61.3	8468
+Specimen_001_L20_L20.fcs		15322
+Specimen_001_L20_L20.fcs/mCherry	59.6	9137
+Specimen_001_L21_L21.fcs		15181
+Specimen_001_L21_L21.fcs/mCherry	77	11690
+Specimen_001_L22_L22.fcs		16262
+Specimen_001_L22_L22.fcs/mCherry	73.3	11922
+Specimen_001_M3_M03.fcs		7943
+Specimen_001_M3_M03.fcs/mCherry	56	4451
+Specimen_001_M4_M04.fcs		6625
+Specimen_001_M4_M04.fcs/mCherry	53.1	3520
+Specimen_001_M5_M05.fcs		7990
+Specimen_001_M5_M05.fcs/mCherry	64	5115
+Specimen_001_M6_M06.fcs		6764
+Specimen_001_M6_M06.fcs/mCherry	68	4601
+Specimen_001_M7_M07.fcs		9682
+Specimen_001_M7_M07.fcs/mCherry	45.4	4399
+Specimen_001_M8_M08.fcs		5788
+Specimen_001_M8_M08.fcs/mCherry	40.8	2364
+Specimen_001_M9_M09.fcs		8695
+Specimen_001_M9_M09.fcs/mCherry	52.1	4532
+Specimen_001_M10_M10.fcs		5389
+Specimen_001_M10_M10.fcs/mCherry	47.7	2570
+Specimen_001_M11_M11.fcs		7896
+Specimen_001_M11_M11.fcs/mCherry	48	3792
+Specimen_001_M12_M12.fcs		5681
+Specimen_001_M12_M12.fcs/mCherry	43.7	2480
+Specimen_001_M13_M13.fcs		10105
+Specimen_001_M13_M13.fcs/mCherry	43.5	4398
+Specimen_001_M14_M14.fcs		7108
+Specimen_001_M14_M14.fcs/mCherry	41	2911
+Specimen_001_M15_M15.fcs		8601
+Specimen_001_M15_M15.fcs/mCherry	52.5	4513
+Specimen_001_M16_M16.fcs		5859
+Specimen_001_M16_M16.fcs/mCherry	48.1	2820
+Specimen_001_M17_M17.fcs		9306
+Specimen_001_M17_M17.fcs/mCherry	43.6	4057
+Specimen_001_M18_M18.fcs		6767
+Specimen_001_M18_M18.fcs/mCherry	41.2	2791
+Specimen_001_M19_M19.fcs		5637
+Specimen_001_M19_M19.fcs/mCherry	67.8	3823
+Specimen_001_M20_M20.fcs		5430
+Specimen_001_M20_M20.fcs/mCherry	66.4	3603
+Specimen_001_M21_M21.fcs		7842
+Specimen_001_M21_M21.fcs/mCherry	59.8	4686
+Specimen_001_M22_M22.fcs		6991
+Specimen_001_M22_M22.fcs/mCherry	57.2	4001
+Specimen_001_N3_N03.fcs		14758
+Specimen_001_N3_N03.fcs/mCherry	67.2	9913
+Specimen_001_N4_N04.fcs		16544
+Specimen_001_N4_N04.fcs/mCherry	63.9	10565
+Specimen_001_N5_N05.fcs		13677
+Specimen_001_N5_N05.fcs/mCherry	65.5	8954
+Specimen_001_N6_N06.fcs		12429
+Specimen_001_N6_N06.fcs/mCherry	62.7	7795
+Specimen_001_N7_N07.fcs		12925
+Specimen_001_N7_N07.fcs/mCherry	58.6	7574
+Specimen_001_N8_N08.fcs		14147
+Specimen_001_N8_N08.fcs/mCherry	56.2	7944
+Specimen_001_N9_N09.fcs		12784
+Specimen_001_N9_N09.fcs/mCherry	65.4	8355
+Specimen_001_N10_N10.fcs		12972
+Specimen_001_N10_N10.fcs/mCherry	64.7	8393
+Specimen_001_N11_N11.fcs		12925
+Specimen_001_N11_N11.fcs/mCherry	59.4	7680
+Specimen_001_N12_N12.fcs		14664
+Specimen_001_N12_N12.fcs/mCherry	57.6	8448
+Specimen_001_N13_N13.fcs		13348
+Specimen_001_N13_N13.fcs/mCherry	55.8	7448
+Specimen_001_N14_N14.fcs		15980
+Specimen_001_N14_N14.fcs/mCherry	53.6	8572
+Specimen_001_N15_N15.fcs		12737
+Specimen_001_N15_N15.fcs/mCherry	67.9	8646
+Specimen_001_N16_N16.fcs		14852
+Specimen_001_N16_N16.fcs/mCherry	64.3	9550
+Specimen_001_N17_N17.fcs		13724
+Specimen_001_N17_N17.fcs/mCherry	57.1	7838
+Specimen_001_N18_N18.fcs		14899
+Specimen_001_N18_N18.fcs/mCherry	53.2	7929
+Specimen_001_N19_N19.fcs		14006
+Specimen_001_N19_N19.fcs/mCherry	68	9529
+Specimen_001_N20_N20.fcs		15322
+Specimen_001_N20_N20.fcs/mCherry	67.2	10298
+Specimen_001_N21_N21.fcs		14382
+Specimen_001_N21_N21.fcs/mCherry	70.6	10152
+Specimen_001_N22_N22.fcs		15463
+Specimen_001_N22_N22.fcs/mCherry	65.9	10188
+Specimen_001_O3_O03.fcs		8789
+Specimen_001_O3_O03.fcs/mCherry	95.3	8372
+Specimen_001_O4_O04.fcs		6850
+Specimen_001_O4_O04.fcs/mCherry	95.6	6550
+Specimen_001_O5_O05.fcs		7425
+Specimen_001_O5_O05.fcs/mCherry	62.5	4641
+Specimen_001_O6_O06.fcs		5663
+Specimen_001_O6_O06.fcs/mCherry	62.1	3515
+Specimen_001_O7_O07.fcs		7300
+Specimen_001_O7_O07.fcs/mCherry	47.2	3446
+Specimen_001_O8_O08.fcs		5233
+Specimen_001_O8_O08.fcs/mCherry	43.8	2294
+Specimen_001_O9_O09.fcs		7614
+Specimen_001_O9_O09.fcs/mCherry	60	4565
+Specimen_001_O10_O10.fcs		5878
+Specimen_001_O10_O10.fcs/mCherry	59.7	3509
+Specimen_001_O11_O11.fcs		8413
+Specimen_001_O11_O11.fcs/mCherry	42.7	3596
+Specimen_001_O12_O12.fcs		6862
+Specimen_001_O12_O12.fcs/mCherry	39.7	2722
+Specimen_001_O13_O13.fcs		11280
+Specimen_001_O13_O13.fcs/mCherry	44.2	4991
+Specimen_001_O14_O14.fcs		7160
+Specimen_001_O14_O14.fcs/mCherry	37.9	2712
+Specimen_001_O15_O15.fcs		8975
+Specimen_001_O15_O15.fcs/mCherry	64	5741
+Specimen_001_O16_O16.fcs		6269
+Specimen_001_O16_O16.fcs/mCherry	62.1	3893
+Specimen_001_O17_O17.fcs		9447
+Specimen_001_O17_O17.fcs/mCherry	47.9	4528
+Specimen_001_O18_O18.fcs		6904
+Specimen_001_O18_O18.fcs/mCherry	45.2	3118
+Specimen_001_O19_O19.fcs		7230
+Specimen_001_O19_O19.fcs/mCherry	61	4411
+Specimen_001_O20_O20.fcs		6122
+Specimen_001_O20_O20.fcs/mCherry	61.5	3767
+Specimen_001_O21_O21.fcs		9212
+Specimen_001_O21_O21.fcs/mCherry	95	8749
+Specimen_001_O22_O22.fcs		5712
+Specimen_001_O22_O22.fcs/mCherry	94.4	5393
+Specimen_001_P3_P03.fcs		19411
+Specimen_001_P3_P03.fcs/mCherry	98.1	19038
+Specimen_001_P4_P04.fcs		20445
+Specimen_001_P4_P04.fcs/mCherry	98.3	20090
+Specimen_001_P5_P05.fcs		13731
+Specimen_001_P5_P05.fcs/mCherry	68.5	9399
+Specimen_001_P6_P06.fcs		12885
+Specimen_001_P6_P06.fcs/mCherry	67.8	8736
+Specimen_001_P7_P07.fcs		13677
+Specimen_001_P7_P07.fcs/mCherry	58.4	7991
+Specimen_001_P8_P08.fcs		14288
+Specimen_001_P8_P08.fcs/mCherry	57.4	8203
+Specimen_001_P9_P09.fcs		13442
+Specimen_001_P9_P09.fcs/mCherry	64.5	8664
+Specimen_001_P10_P10.fcs		16544
+Specimen_001_P10_P10.fcs/mCherry	62	10256
+Specimen_001_P11_P11.fcs		10619
+Specimen_001_P11_P11.fcs/mCherry	57.2	6077
+Specimen_001_P12_P12.fcs		15416
+Specimen_001_P12_P12.fcs/mCherry	54.3	8365
+Specimen_001_P13_P13.fcs		13959
+Specimen_001_P13_P13.fcs/mCherry	57.6	8042
+Specimen_001_P14_P14.fcs		14095
+Specimen_001_P14_P14.fcs/mCherry	53	7473
+Specimen_001_P15_P15.fcs		15134
+Specimen_001_P15_P15.fcs/mCherry	67	10134
+Specimen_001_P16_P16.fcs		18095
+Specimen_001_P16_P16.fcs/mCherry	64.9	11746
+Specimen_001_P17_P17.fcs		14382
+Specimen_001_P17_P17.fcs/mCherry	61.3	8812
+Specimen_001_P18_P18.fcs		16497
+Specimen_001_P18_P18.fcs/mCherry	56.5	9324
+Specimen_001_P19_P19.fcs		14617
+Specimen_001_P19_P19.fcs/mCherry	66.4	9701
+Specimen_001_P20_P20.fcs		16403
+Specimen_001_P20_P20.fcs/mCherry	63.7	10453
+Specimen_001_P21_P21.fcs		18621
+Specimen_001_P21_P21.fcs/mCherry	98	18257
+Specimen_001_P22_P22.fcs		19740
+Specimen_001_P22_P22.fcs/mCherry	98	19340
