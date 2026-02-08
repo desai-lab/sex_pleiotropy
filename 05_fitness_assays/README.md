@@ -1,6 +1,6 @@
 ## Fitness Assay Analysis
 
-Process raw flow cytometry data from fitness assays to generate necessary inputs for `06_figures':
+Process raw flow cytometry data from fitness assays to generate necessary inputs for `06_figures`:
 ```  
 01_population_fitness_processing.ipynb
 02_clone_fitness_processing.ipynb
